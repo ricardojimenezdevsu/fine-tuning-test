@@ -1,0 +1,17 @@
+Q: What is an example of a unit in object-oriented (OO) languages?
+A: The typical example of a unit in object-oriented (OO) languages is a class.
+WA1: A variable
+WA2: A method
+WA3: A loop
+
+Q: What type of test doubles are used to verify behavior?
+A: Mocks look like real implementations of preprogrammed objects, but instead are used to verify behavior.
+WA1: Stubs
+WA2: Drivers
+WA3: Monitors
+
+Q: What is Kent Becks book Test Driven Development: By Example (Addison-Wesley) about?
+A: Kent Becks book Test Driven Development: By Example (Addison-Wesley) is a fantastic resource for learning more about TDD.
+WA1: Agile Testing
+WA2: API Gateways
+WA3: Testing the Integrity of Products

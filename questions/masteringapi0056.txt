@@ -1,0 +1,11 @@
+Q: What should be taken into consideration when making performance decisions?
+A: Measuring performance
+WA1: Guessing performance
+WA2: Making assumptions about performance
+WA3: Consulting colleagues about performance 
+
+Q: What should be done when adding a new field to a message in binary representations?
+A: The field should not be mandatory
+WA1: The field should be mandatory
+WA2: The field should be optional
+WA3: The field should be ignored

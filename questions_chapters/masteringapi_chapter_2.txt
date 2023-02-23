@@ -1,0 +1,76 @@
+Q1: About the Agile test Quadrants, which one has the following description? It ensures that functional requirements are met and includes exploratory testing.
+Correct answers:
+CA1: Q3
+Wrong answers:
+WA1: Q1
+WA2: Q2
+WA3: Q4
+
+Q2: Which type of test is at the middle of the pyramid of tests?
+Correct answers:
+CA1: Integration Test
+Wrong answers:
+WA1: Unit Test
+WA2: End-to-End Test
+
+Q3: The goal of an end-to-end test is to test all parts of the applications, that includes every API, UI, and service that the application could have
+Correct answers:
+CA1: FALSE
+Wrong answers:
+WA1: TRUE
+
+Q4: What is the core of building an API?
+Correct answers:
+CA1: Testing.
+Wrong answers:
+WA1: Versioning.
+WA2: Architecture.
+WA3: Documentation.
+
+Q5: What is the purpose of the test quadrants and the test automation pyramid?
+Correct answers:
+CA1: Their purpose is to guide you in choosing what tests you might want.
+Wrong answers:
+WA1: Their purpose is to be the base of the test suite you will implement.
+WA2: Their purpose is to indicate what tests you must implement.
+WA3: Their purpose is to standardize the kind of tests in the software.
+
+Q6: What is the purpose of unit tests?
+Correct answers:
+CA1: Its to ensure that the code you write is running as expected.
+Wrong answers:
+WA1: Its to be automated.
+WA2: Its to test the application behavior.
+WA3: Its to ensure the security of the application.
+
+Q7: What does a contract mean on an API?
+Correct answers:
+CA1: A contract is a definition of how the consumer and the producer will interact.
+Wrong answers:
+WA1: A contract is a document that specifies the rules of the API.
+WA2: A contract is a schema specification.
+WA3: A contract is a kind of test.
+
+Q8: What are the producer contracts?
+Correct answers:
+CA1: They are interactions defined by the API owner to allow the use of the API by an external audience.
+Wrong answers:
+WA1: They are interactions made by the consumer for the use of the API.
+WA2: They are interactions of how the producer and the consumer will interact, defined by both producer and consumer.
+WA3: They are contracts that can be used when the producer and consumer are in the same organization.
+
+Q9: What is contract testing?
+Correct answers:
+CA1: Its a way to ensure the interaction between the producer and consumer has the correct responses.
+Wrong answers:
+WA1: Its a test for the API versioning.
+WA2: Its the validation of the schema specification.
+WA3: Its the validation of the code that you write.
+
+Q10: What is API end-to-end testing?
+Correct answers:
+CA1: Its the test between your services and their dependencies to verify that they work as expected.
+Wrong answers:
+WA1: Its the test over the boundaries between external services and the APIs modules.
+WA2: Its a way to ensure the interaction between the producer and consumer has the correct responses.
+WA3: Its the validation of the schema specification.

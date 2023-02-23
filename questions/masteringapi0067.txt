@@ -1,0 +1,11 @@
+Q: What is the purpose of testing an API?
+A: To verify that the product works as expected and provide a high level of confidence that the service is operating correctly.
+WA1: To build the API.
+WA2: To introduce breaking changes.
+WA3: To return results quickly.
+
+Q: What should an API not do?
+A: Return anything that differs from what is documented.
+WA1: Send useful feedback to users.
+WA2: Be secure.
+WA3: Follow service-level objectives.

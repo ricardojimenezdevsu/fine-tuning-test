@@ -1,0 +1,11 @@
+Q: What typographical conventions are used in this book?
+A: Italic, constant width, constant width bold, and constant width italic.
+WA1: Dotted lines, bold letters, italic typeface, and underlining.
+WA2: Bold, italic, underline, and strikethrough.
+WA3: Italic, bold, and underlined.
+
+Q: How can readers get supplemental material for this book?
+A: Download it from https://github.com/masteringapi.
+WA1: Contact the publisher for a copy.
+WA2: Send an email to bookquestions@oreilly.com.
+WA3: Purchase it from an online store.

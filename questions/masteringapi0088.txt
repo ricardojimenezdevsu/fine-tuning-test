@@ -1,0 +1,17 @@
+Q: What should be used when contract testing is not available?
+A: API component tests
+WA1: Manual testing
+WA2: Manual verification
+WA3: Manual scripting
+
+Q: What is the response code of a successful request to the /conference/{conference-id}/attendees endpoint?
+A: 200 (OK)
+WA1: 201 (Created)
+WA2: 400 (Bad Request)
+WA3: 403 (Not Authorized)
+
+Q: What should be the golden source of agreed interactions?
+A: Contracts
+WA1: Manual testing
+WA2: Manual verification
+WA3: Manual scripting

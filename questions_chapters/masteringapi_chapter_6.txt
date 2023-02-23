@@ -1,0 +1,75 @@
+Q1: The difference between Information disclosure and spoofing is that the perpetrator gets access to the information directly rather than by having to spoof a legitimate user
+Correct answers:
+CA1: TRUE
+Wrong answers:
+WA1: FALSE
+
+Q2: what kind of strategies the book doesn't mention to perform rate limiting?
+Correct answers:
+CA1: Exponential window
+Wrong answers:
+WA1: Fixed window
+WA2: Token bucket
+WA3: Leaky bucket
+
+Q3: Regarding modeling threats, which is not a component of DFD?
+Correct answers:
+CA1: Data access
+Wrong answers:
+WA1: External entities
+WA2: Datastores
+WA3: Data flows
+
+Q4: What is the general risk due to security breaches?
+Correct answers:
+CA1: Organizations reputation.
+Wrong answers:
+WA1: The costs.
+WA2: Lost data.
+WA3: Cyber attack.
+
+Q5: On API security, what is threat modeling?
+Correct answers:
+CA1: Its a technique that helps to identify threats, attacks, vulnerabilities, and countermeasures that could affect the system.
+Wrong answers:
+WA1: Its a technique that helps to identify risks that affect your system.
+WA2: Its a system that helps you to create a diagram of risks for your application.
+WA3: Its a system in which all your application threats are identified and suppressed.
+
+Q6: On API security, what is the most dangerous aspect of threats to the systems?
+Correct answers:
+CA1: The elevation of privilege.
+Wrong answers:
+WA1: The denial of services.
+WA2: The information disclosure.
+WA3: The data encryption.
+
+Q7: What is the methodology that the author recommends using for preventing threats?
+Correct answers:
+CA1: STRIDE.
+Wrong answers:
+WA1: OWASP.
+WA2: DREAD.
+WA3: GDPR.
+
+Q8: What is the first action to take to mitigate the spoofing?
+Correct answers:
+CA1: Authenticate all requests made.
+Wrong answers:
+WA1: Deny all payload injections.
+WA2: Dont expose sensitive data.
+WA3: Implement rate limiting.
+
+Q9: What is the methodology that authors use to evaluate the threats?
+Correct answers:
+CA1: DREAD.
+Wrong answers:
+WA1: OWASP.
+WA2: STRIDE.
+WA3: GDPR.
+
+Q10: The modeling threat process doesnt need to be updated.
+Correct answers:
+CA1: FALSE
+Wrong answers:
+WA1: TRUE

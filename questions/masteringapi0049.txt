@@ -1,0 +1,17 @@
+Q: What should come first when developing an API- the specification or the server-side code?
+A: The specification
+WA1: The server-side code
+WA2: The consumer 
+WA3: The underlying representation
+
+Q: What is the challenge with OpenAPI Specifications?
+A: They only convey the shape of the API.
+WA1: They fully model the semantics.
+WA2: They are difficult to use.
+WA3: They are not secure.
+
+Q: What is one practical application of OpenAPI validation?
+A: Securing APIs and API infrastructure.
+WA1: Generating the API implementation stubs from the OAS.
+WA2: Modeling the range of behaviors.
+WA3: Refactoring components behind the scenes.

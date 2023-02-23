@@ -1,0 +1,11 @@
+Q: What is the purpose of ADRs?
+A: ADRs provide a valuable record for making decisions and have both present and historical value in the lifetime of a project.
+WA1: To make sure decisions are made quickly
+WA2: To help with the design of APIs
+WA3: To provide a record of a project's lifetime
+
+Q: What will be explored in Chapter 1 of Part I?
+A: REST and Remote Procedure Call (RPC)based APIs, specifications and schemas, recommended standards, strategies for versioning, and how to choose the right API for your system.
+WA1: How to build an API
+WA2: How to test an API
+WA3: How to design a UI

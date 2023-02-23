@@ -1,0 +1,11 @@
+Q: What are the two general categories of APIs? 
+A: Internal APIs and External APIs
+WA1: Software APIs
+WA2: Web APIs
+WA3: Machine APIs
+
+Q: What does API stand for?
+A: Application Programming Interface
+WA1: Automatic Programming Interface
+WA2: Application Protocol Interface
+WA3: Automated Programming Interface

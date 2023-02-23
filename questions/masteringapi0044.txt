@@ -1,0 +1,11 @@
+Q: What is an example of a filter query based upon the OData Standard?
+A: GET http://mastering-api.com/attendees?$filter=displayName eq 'Jim'
+WA1: GET http://mastering-api.com/attendees?$filter=email eq 'Jim'
+WA2: GET http://mastering-api.com/attendees?$filter=givenName eq 'Jim'
+WA3: GET http://mastering-api.com/attendees?$filter=surname eq 'Jim'
+
+Q: What is an important consideration when extending APIs to consumers?
+A: Defining what should happen in various error scenarios
+WA1: Adding pagination later
+WA2: Converting from an array to an object
+WA3: Using the GraphQL standard

@@ -1,0 +1,76 @@
+Q1: Where is a service mesh deployed?
+Correct answers:
+CA1: A service mesh is deployed within an internal network or cluster.
+Wrong answers:
+WA1: In a cloud provider like AWS or Azure
+WA2: You have to use a container orchestrator for the deployment
+
+Q2: Which of these is not a problem that service mesh can address?
+Correct answers:
+CA1: Decrease of latency between services
+Wrong answers:
+WA1: Separate ingress and service-to-service traffic management
+WA2: Enforce security, including transport encryption, authentication, and authorization
+WA3: Enable fine-grained control of service routing, reliability, and traffic management
+
+Q3: About service mesh implementation patterns, which approach is the most used?
+Correct answers:
+CA1: The sidecar-based approach
+Wrong answers:
+WA1: The library approach
+WA2: Proxyless gRPC libraries
+WA3: The sidecarless approach
+
+Q4: What is not a challenge of service mesh implementation?
+Correct answers:
+CA1: Not enough flexibility in implementation
+Wrong answers:
+WA1: Service mesh as ESB
+WA2: Service Mesh as Gateway
+WA3: To many networking layers
+
+Q5: What is a service mesh?
+Correct answers:
+CA1: Its a manager for all the service-to-service communication in a distributed software environment.
+Wrong answers:
+WA1: Its a set of API gateways.
+WA2: Its the system that communicates with external services.
+WA3: Its a classification of API gateways.
+
+Q6: Who is the communication sources origin in a service mesh?
+Correct answers:
+CA1: Its an internal service.
+Wrong answers:
+WA1: Its an users device.
+WA2: Its an external system.
+WA3: Its the routing service.
+
+Q7: Its a traffic requirement of microservices-based applications that manage the bandwidth of the network
+Correct answers:
+CA1: Traffic shaping.
+Wrong answers:
+WA1: Traffic policing.
+WA2: Traffic pattern.
+WA3: Traffic strategizing.
+
+Q8: Its a traffic requirement of microservices-based applications that monitors the network traffic
+Correct answers:
+CA1: Traffic policing.
+Wrong answers:
+WA1: Traffic shaping.
+WA2: Traffic pattern.
+WA3: Traffic strategizing.
+
+Q9: What is the first step before selecting a service mesh?
+Correct answers:
+CA1: Its identifying the related requirements.
+Wrong answers:
+WA1: Its selecting the new infrastructure.
+WA2: Its comparing whether buy or build the service.
+WA3: Its choosing the related technologies.
+
+Q10: The use of the sidecars on service mesh at scale has the same cost as a non-scale service mesh.
+Correct answers:
+CA1: FALSE
+Wrong answers:
+WA1: TRUE

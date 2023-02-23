@@ -1,0 +1,11 @@
+Q: What can be done to add an additional field to the /attendees return type without breaking compatibility?
+A: Adding new fields does not break existing behavior and therefore does not break compatibility.
+WA1: Deleting existing fields.
+WA2: Removing existing behavior.
+WA3: Making changes to the OpenAPI Specifications.
+
+Q: What is an important part of an API program?
+A: OpenAPI Specifications.
+WA1: Versioning.
+WA2: Testing Tools.
+WA3: Documentation.

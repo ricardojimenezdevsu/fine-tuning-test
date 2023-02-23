@@ -1,0 +1,11 @@
+Q: What is the difference between an example and a contract test?
+A: An example test checks the behavior of a service, while a contract test checks the shape of the response.
+WA1: Example tests call out to external dependencies.
+WA2: Contract tests are used to verify external integration points.
+WA3: Example tests are faster running than component tests.
+
+Q: What are component tests used to do?
+A: Component tests verify multiple units together.
+WA1: Component tests should call out to external dependencies.
+WA2: Component tests are used to verify external integration points.
+WA3: Component tests are used to confirm that the API is producing.

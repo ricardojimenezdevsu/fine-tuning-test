@@ -1,0 +1,11 @@
+Q: What is the challenge of combining REST and gRPC service?
+A: Its important to consider the difference between RPC and APIs and how the REST domain will interact with the RPC domain.
+WA1: Understanding the Go language and build environment.
+WA2: Generating RPC for eastwest from northsouth.
+WA3: Making the gRPC look like a REST API.
+
+Q: What is the best approach to tackling the challenge?
+A: Carefully design the microservices-based architecture (RPC) communication independently from the REST representation.
+WA1: Generating gRPC to OpenAPI.
+WA2: Versioning the gRPC and OpenAPI Specification.
+WA3: Combining or generating specifications from one another.

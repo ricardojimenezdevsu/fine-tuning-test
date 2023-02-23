@@ -1,0 +1,11 @@
+Q: What is a component diagram useful for?
+A: A component diagram reveals the detail of the language/stack used to build software. 
+WA1: It provides a very useful map to the codebase.
+WA2: It is used to query the detail of a container.
+WA3: It is used to remain technology agnostic.
+
+Q: What was the reason for the construction of the M62 between Leeds and Manchester in the UK?
+A: There was a geological fault beneath the land, meaning the motorway had to be built that way.
+WA1: The owner of the land was stubborn and refused to move or hand over his land.
+WA2: The engineers simply built around the land.
+WA3: It was to create a three-lane highway.

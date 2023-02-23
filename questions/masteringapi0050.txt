@@ -1,0 +1,17 @@
+Q: What is a DMZ used for?
+A: To shield a network from inbound traffic.
+WA1: To secure a network from outbound traffic.
+WA2: To protect a network from malicious software.
+WA3: To provide remote access to a network.
+
+Q: What is the purpose of the swagger-request-validator?
+A: To validate JSON REST content.
+WA1: To secure a network from outbound traffic.
+WA2: To encrypt data for secure transfer.
+WA3: To detect and eliminate malware.
+
+Q: What is the OpenApiInteractionValidator used for?
+A: To create a ValidationReport on an exchange.
+WA1: To secure a network from outbound traffic.
+WA2: To encrypt data for secure transfer.
+WA3: To detect and eliminate malware.

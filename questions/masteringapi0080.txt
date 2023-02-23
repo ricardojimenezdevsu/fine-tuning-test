@@ -1,0 +1,17 @@
+Q: What is a producer contract?
+A: A producer contract is a practice utilized when an API is being used outside of an immediate organization, where the API needs to maintain its integrity, as changes to the interface cannot be made quickly without a migration plan.
+WA1: A producer contract is when the consumer of an API can make changes to the interface quickly.
+WA2: A producer contract is a tool used to introduce contracts to the API.
+WA3: A producer contract is a legal document between two parties.
+
+Q: What is an example of an API that is utilized outside of an immediate organization?
+A: The Microsoft Graph API is an example of an API that is utilized outside of an immediate organization. 
+WA1: The Attendee API is an example of an API that is utilized outside of an immediate organization.
+WA2: The Google Maps API is an example of an API that is utilized outside of an immediate organization.
+WA3: The Twitter API is an example of an API that is utilized outside of an immediate organization.
+
+Q: What is the purpose of a producer contract?
+A: The purpose of a producer contract is to ensure that the interactions do not diverge and that the data returned is consistent.
+WA1: The purpose of a producer contract is to introduce contracts to the API.
+WA2: The purpose of a producer contract is to make changes to the interface quickly.
+WA3

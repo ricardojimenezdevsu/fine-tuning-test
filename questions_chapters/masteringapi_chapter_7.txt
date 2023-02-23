@@ -1,0 +1,83 @@
+Q1: When doing a System-to-System authentication is necessary to use an API key, for this, it is enough to use a base64 encoded string of 30 characters in length
+Correct answers:
+CA1: FALSE
+Wrong answers:
+WA1: TRUE
+
+Q2: If you are implementing an API and want to use GitHub login, what role would GitHub be assuming?
+Correct answers:
+CA1: Authorization server
+Wrong answers:
+WA1: Resource server
+WA2: Resource owner
+WA3: Client
+
+Q3: Within the Authorization enforcement context, which issue listed in the OWASP API Security top 10 refers to when a user can perform tasks that are not authorized to do?
+Correct answers:
+CA1: Broken Function Level Authorization
+Wrong answers:
+WA1: Excessive Data Exposure
+WA2: Mass assignment
+WA3: Broken Object Level Authorization (BOLA)
+
+Q4: Within the Authorization enforcement context, which issue listed in the OWASP API Security top 10 refers to when a user can request information for an object that they should have access to?
+Correct answers:
+CA1: Broken Object Level Authorization (BOLA)
+Wrong answers:
+WA1: Broken Function Level Authorization
+WA2: Excessive Data Exposure
+WA3: Mass assignment
+
+Q5: What is the advantage of using tokens for HTTP requests?
+Correct answers:
+CA1: You dont have to send the password across the network for every request.
+Wrong answers:
+WA1: You can store the token in the client.
+WA2: They have a limited lifetime.
+WA3: They use the HTTP basic.
+
+Q6: Its recommended that to access your APIs allow HTTP basic.
+Correct answers:
+CA1: FALSE
+Wrong answers:
+WA1: TRUE
+
+Q7: This type of authentication consists of claims that have associated values.
+Correct answers:
+CA1: JWT.
+Wrong answers:
+WA1: OAuth2.
+WA2: Bearer token.
+WA3: User credentials.
+
+Q8: Why should the authentication tokens be short-lived?
+Correct answers:
+CA1: Because with short-lived tokens you can mitigate the risk that them being stolen.
+Wrong answers:
+WA1: Because short-lived tokens are easier to manage.
+WA2: Because they can improve the requests performance.
+WA3: Because of the cost of maintaining long-lived tokens.
+
+Q9: If your API is consumed by public end users, what kind of authorization should you use?
+Correct answers:
+CA1: Authorization Code Grant + PKCE.
+Wrong answers:
+WA1: Authorization Code Grant.
+WA2: Authorization Grant.
+WA3: OAuth2 Grant.
+
+Q10: What does the OAuth2 scope consist of?
+Correct answers:
+CA1: Keeping the end user under control and restricting what actions the client can perform on their behalf.
+Wrong answers:
+WA1: Restricting what actions the user can perform.
+WA2: Limiting access to the users.
+WA3: Sending an authentication token to get the allowed resources that the user can request.
+
+Q11: What is the difference between OpenID Connect and OAuth2?
+Correct answers:
+CA1: The OIDC provides more information about the end user.
+Wrong answers:
+WA1: The OAuth2 grants more security.
+WA2: The OIDC is more secure to access APIs.
+WA3: The OIDC is a newer version of OAuth2.

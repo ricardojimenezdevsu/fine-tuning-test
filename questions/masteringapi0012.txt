@@ -1,0 +1,11 @@
+Q: What is the website for the publisher of this book?
+A: https://oreil.ly/Mastering-API-Architecture
+WA1: https://www.youtube.com/oreillymedia
+WA2: https://linkedin.com/company/oreilly-media
+WA3: https://twitter.com/oreillymedia
+
+Q: What is the email address to comment or ask technical questions about this book?
+A: bookquestions@oreilly.com
+WA1: info@oreilly.com
+WA2: oreilly@gmail.com
+WA3: bookquestions@gmail.com

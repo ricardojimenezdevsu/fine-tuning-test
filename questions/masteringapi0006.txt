@@ -1,0 +1,11 @@
+Q: What is the main focus of the book?
+A: To provide guidance on making the best possible decision given the circumstances of one's architecture.
+WA1: To provide an overview of greenfield technology.
+WA2: To provide an overview of existing architectures.
+WA3: To provide an overview of newer technologies and developments.
+
+Q: Who is the book for?
+A: Developers, accidental architects, and solutions or enterprise architects.
+WA1: Business analysts.
+WA2: Software engineers.
+WA3: Project managers.

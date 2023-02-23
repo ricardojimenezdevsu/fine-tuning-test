@@ -1,0 +1,11 @@
+Q: What is a C4 Container Diagram?
+A: A container diagram that helps describe the technical breakout of the major participants in the architecture.
+WA1: A diagram that documents the detail of a customer interacting with the conference system.
+WA2: A diagram that provides the big picture of the conference system.
+WA3: A diagram that defines the roles and responsibilities within each.
+
+Q: What is the advantage of APIs and modern applications?
+A: There is a significant amount of flexibility in the solution space.
+WA1: There is a significant amount of detail in the solution space.
+WA2: There is a significant amount of speed in the solution space.
+WA3: There is a significant amount of reliability in the solution space.

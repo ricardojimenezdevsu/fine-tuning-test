@@ -1,0 +1,11 @@
+Q: What is an end-to-end test?
+A: An end-to-end test covers the same ground of a request flowing from a start to an end point but do not necessarily imply or assume that traffic originates from a Web UI.
+WA1: An end-to-end test is a test that is used to verify entire modules are working together.
+WA2: An end-to-end test is a type of unit test.
+WA3: An end-to-end test is a test that is only used for web applications.
+
+Q: What is the test pyramid?
+A: The test pyramid is a guide to the proportions of each type of testing you should aim to implement.
+WA1: The test pyramid is a type of unit test.
+WA2: The test pyramid is a type of end-to-end test.
+WA3: The test pyramid is a type of integration test.

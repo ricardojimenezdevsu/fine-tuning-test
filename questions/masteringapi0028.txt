@@ -1,0 +1,17 @@
+Q: What is an ADR?
+A: An ADR is an architectural decision record which helps to make decisions clear in software architecture.
+WA1: An ADR is an automatic documentation resource.
+WA2: An ADR is a type of project management software.
+WA3: An ADR is a type of architecture design language.
+
+Q: What are the four key sections in an ADR?
+A: The four key sections in an ADR are status, context, decision, and consequences.
+WA1: The four key sections in an ADR are status, context, implementation, and consequences.
+WA2: The four key sections in an ADR are status, context, decision, and implementation.
+WA3: The four key sections in an ADR are objectives, context, decision, and consequences.
+
+Q: What is the purpose of the context section in an ADR?
+A: The context section in an ADR helps to set the scene and describe the problem or the bounds in which the decision will be made.
+WA1: The context section in an ADR provides a detailed description of the decision.
+WA2: The context section in an ADR is used to describe the implementation of the decision.
+WA3: The context section in an ADR is used to create a blog post about the decision.

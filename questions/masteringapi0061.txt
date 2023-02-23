@@ -1,0 +1,11 @@
+Q: What is HTTP/3?
+A: HTTP/3 uses QUIC, a transport protocol built on UDP.
+WA1: HTTP/3 is a communication protocol
+WA2: HTTP/3 is a data storage system
+WA3: HTTP/3 is a web browser
+
+Q: What should be considered when introducing vintage components?
+A: The overall performance impact of introducing vintage components.
+WA1: The security impact of introducing vintage components.
+WA2: The design impact of introducing vintage components.
+WA3: The cost impact of introducing vintage components.

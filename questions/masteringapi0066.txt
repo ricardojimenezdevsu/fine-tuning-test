@@ -1,0 +1,11 @@
+Q: What is gRPC used for?
+A: gRPC performs incredibly well in high-bandwidth exchanges and is an ideal option for eastwest exchanges.
+WA1: gRPC is used for modeling multiple specifications.
+WA2: gRPC is used to create a great developer experience around APIs.
+WA3: gRPC is used to avoid unexpected compatibility issues.
+
+Q: What is the challenge for an API architecture?
+A: The challenge for an API architecture is to meet the requirements from a consumer business perspective, to create a great developer experience around APIs, and to avoid unexpected compatibility issues.
+WA1: The challenge for an API architecture is to avoid breaking changes.
+WA2: The challenge for an API architecture is to create a great developer experience around APIs.
+WA3: The challenge for an API architecture is to enforce a greater strictness.

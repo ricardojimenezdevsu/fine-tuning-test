@@ -1,0 +1,60 @@
+Q1: Which of these is not a concern that can be dealt with an API gateway:
+Correct answers:
+CA1: Logging
+Wrong answers:
+WA1: Monetization
+WA2: Security
+WA3: Observability
+
+Q2: How does an API Gateway lead to a less coupled system?
+Correct answers:
+CA1: It acts as a single entry point and as a facade or adapter
+Wrong answers:
+WA1: It redirects the traffic to each service
+WA2: It gathers all the commonly used resources in a single module
+
+Q3: Which of the following is not a problem-related API gateway:
+Correct answers:
+CA1: Wrong redirection of services when consulting the API gateway
+Wrong answers:
+WA1: User client state management issues, such as the backend state not being migrated correctly, which causes the failure of Sticky sessions
+WA2: Poor performance, as clients are not redirected based on geographical considerations
+WA3: Unintentional cascading failure, such as a faulty leader election component that results in a deadlock, causes all backend systems to become unavailable
+
+Q4: What is an API gateway?
+Correct answers:
+CA1: Its a management tool deployed at the edge of a system that controls the interactions between the consumer and the backend services.
+Wrong answers:
+WA1: Its software to connect two applications.
+WA2: Its a definition of how the consumer and the producer will interact.
+WA3: Its a forward proxy between the consumer and the backend services.
+
+Q5: How should microservices be built?
+Correct answers:
+CA1: They should be built around the idea of smart endpoints and dumb pipes.
+Wrong answers:
+WA1: They should be built around the idea of smart endpoints and dump pipes.
+WA2: They should be built around the idea of decentralization of data management.
+WA3: They should be built using polyglot language stacks.
+
+Q6: What is the primary use of micro API gateways?
+Correct answers:
+CA1: Its to route ingress traffic to backend APIs and services.
+Wrong answers:
+WA1: Its to communicate multiple backend APIs.
+WA2: It protects the communication between consumer requests and the backend APIs.
+WA3: Its to offer an open-source edition.
+
+Q7: If you wont deploy a service mesh, the first choice of API gateway is a service mesh gateway.
+Correct answers:
+CA1: FALSE
+Wrong answers:
+WA1: TRUE
+
+Q8: What is the stage for detecting issues in API gateways?
+Correct answers:
+CA1: Its to have access and the data of a monitoring system.
+Wrong answers:
+WA1: Its to create a dedicated team to detect issues.
+WA2: Its to detect the availability of the security components.
+WA3: Its to validate the metrics of the API.

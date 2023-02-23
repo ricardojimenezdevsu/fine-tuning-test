@@ -1,0 +1,52 @@
+Q1: What does it mean that an API is deprecated?
+Correct answers:
+CA1: It means that is still available for use but significant new development should not be carried out against it.
+Wrong answers:
+WA1: It is when you release a version of the API for users to start to integrate but is not finished yet
+WA2: It means that the API is versioned and live in production
+WA3: The API is retired from production and is no longer accessible.
+
+Q2: Which deployment strategy would you use for highly coupled services?
+Correct answers:
+CA1: Blue-green
+Wrong answers:
+WA1: Canary Release
+WA2: Traffic mirroring
+
+Q3: Which is not a pillar of Observability?
+Correct answers:
+CA1: Warnings
+Wrong answers:
+WA1: Metrics
+WA2: Logs
+WA3: Trace
+
+Q4: The release process involves putting a feature into production.
+Correct answers:
+CA1: FALSE
+Wrong answers:
+WA1: TRUE
+
+Q5: What is a release according to the author?
+Correct answers:
+CA1: Its when a feature its delivered to end users through an activation process.
+Wrong answers:
+WA1: Its when a feature its deployed into production.
+WA2: Its a term used to describe the features deployed into production.
+WA3: Its a term used to describe new features developed.
+
+Q6: What is the canary release?
+Correct answers:
+CA1: Its a kind of release that allows you to integrate gradually the new version of the API.
+Wrong answers:
+WA1: Its a kind of release that allows you to integrate gradually the old version of the API.
+WA2: Its a kind of release that allows you to deploy gradually the new version of the API.
+WA3: Its a kind of release that allows you to deploy gradually the old version of the API.
+
+Q7: What is the dark release?
+Correct answers:
+CA1: Its a kind of release that mirrors the end users traffic to experiment with or test the new API behavior.
+Wrong answers:
+WA1: Its a kind of release that allows you to integrate gradually the new version of the API.
+WA2: Its a kind of release that mirrors the environments for the new release.
+WA3: Its a kind of release that allows you to mirror gradually the new version of the API.

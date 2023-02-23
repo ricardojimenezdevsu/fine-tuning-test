@@ -1,0 +1,7 @@
+Correct Answer: 1. Key principles of API architecture design include scalability, performance, security, and maintainability.
+
+Wrong Answers: 
+1. Key principles of API architecture design include user experience, cost savings, and ease of use. 
+2. Strategies for successful API evolution include redesigning the system from scratch.
+3. Optimizing API operations is a matter of luck.
+4. Tools for managing and monitoring APIs include spreadsheets.

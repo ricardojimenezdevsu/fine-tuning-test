@@ -1,0 +1,17 @@
+Q: What is the purpose of this work?
+A: To provide accurate information and instructions.
+WA1: To provide incorrect information and instructions.
+WA2: To provide entertainment.
+WA3: To provide advice.
+
+Q: Who is the book dedicated to?
+A: Alex Blewitt.
+WA1: Alex Brown.
+WA2: Alex Smith.
+WA3: Alex Johnson.
+
+Q: What has changed in the last decade regarding software development?
+A: The technology available for us changed.
+WA1: The workforce changed.
+WA2: The platforms changed.
+WA3: The demand increased.

@@ -1,0 +1,11 @@
+Q: What is the purpose of the standalone service in the text?
+A: To allow API-First development against the Attendee service and to allow the API to be invoked from the legacy conference service.
+WA1: To provide user information to the external CFP system.
+WA2: To reduce accidental breaking changes.
+WA3: To provide ADR Guidelines.
+
+Q: What type of latency may be introduced by the standalone service?
+A: A latency that will need to be tested.
+WA1: No latency.
+WA2: A lower latency.
+WA3: A higher latency.

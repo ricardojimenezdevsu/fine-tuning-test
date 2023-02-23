@@ -1,0 +1,11 @@
+Q: What is the advantage of introducing a GraphQL schema in your system? 
+A: The ability to provide a single version across all APIs, removing the need for potentially complex version management on the consumer side.
+WA1: To make the APIs more efficient.
+WA2: To make the APIs easier to use.
+WA3: To make the APIs more secure.
+
+Q: How can GraphQL help mobile devices?
+A: GraphQL is excellent in this scenario as it allows the client to ask for exactly the fields required, including fields that span across multiple APIs.
+WA1: By enabling faster response times.
+WA2: By providing more secure connections.
+WA3: By offering unrestricted access.

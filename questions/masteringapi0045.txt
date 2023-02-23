@@ -1,0 +1,11 @@
+Q: How should developers structure their code to handle errors consistently?
+A: Developers SHOULD be able to write one piece of code that handles errors consistently.
+WA1: Developers MUST be able to write one piece of code that handles errors consistently.
+WA2: Developers MAY be able to write one piece of code that handles errors consistently.
+WA3: Developers DO NOT NEED to write one piece of code that handles errors consistently.
+
+Q: What should be sent back to an external consumer in the case of an error?
+A: An accurate status code must be provided to the consumer.
+WA1: Stack traces and other sensitive information must be sent back to an external consumer.
+WA2: All errors must be sent back to an external consumer.
+WA3: No information must be sent back to an external consumer.

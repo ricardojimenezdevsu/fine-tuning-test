@@ -1,0 +1,11 @@
+Q: What is REST?
+A: REpresentation State Transfer (REST) is a set of architectural constraints, most commonly applied using HTTP as the underlying transport protocol.
+WA1: REST is a software development methodology. 
+WA2: REST is a database language.
+WA3: REST is a security protocol.
+
+Q: How do producers and consumers interact in REST?
+A: A producer-to-consumer interaction is modeled where the producer models resources the consumer can interact with.
+WA1: Consumers and producers interact directly.
+WA2: Consumers and producers do not interact with each other.
+WA3: Consumers send requests to the producer.

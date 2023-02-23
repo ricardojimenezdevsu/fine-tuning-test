@@ -1,0 +1,17 @@
+Q: Who wrote Mastering API Architecture?
+A: James Gough, Daniel Bryant, and Matthew Auburn
+WA1: John Smith
+WA2: Jane Doe
+WA3: Bob Jones
+
+Q: What year was Mastering API Architecture published?
+A: 2023
+WA1: 2022
+WA2: 2021
+WA3: 2020
+
+Q: Who was the Acquisitions Editor for Mastering API Architecture?
+A: Melissa Duffield
+WA1: Virginia Wilson
+WA2: Clare Laylock
+WA3: Kim Cofer

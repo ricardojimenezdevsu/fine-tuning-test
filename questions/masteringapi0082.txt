@@ -1,0 +1,11 @@
+Q: What is the value of contracts?
+A: Contracts provide a discussion for both parties about what the problem is and a way to assert that both parties agree to the same thing.
+WA1: Contracts provide a way to argue with each other.
+WA2: Contracts provide a way to keep secrets.
+WA3: Contracts provide a way to assign tasks.
+
+Q: How can contracts be used in a development process?
+A: Contracts can be used as part of the development process by having the consumer write the contract and create a basic producer code to fulfill the contract, or by having the consumer TDD the functionality and create the contract before submitting the pull request.
+WA1: Contracts can be used as part of the development process by having the consumer write the contract and create a basic consumer code to fulfill the contract.
+WA2: Contracts can be used as part of the development process by having the producer write the contract and create a basic producer code to fulfill the contract.
+WA3: Contracts can be used as part of the development process by having the consumer TDD the functionality and submit the pull request before creating the contract.

@@ -1,0 +1,17 @@
+Q: What syntax is used in gRPC?
+A: Syntax = "proto3";
+WA1: Syntax = "proto2";
+WA2: Syntax = "JSON";
+WA3: Syntax = "XML";
+
+Q: What does the following Java code demonstrate?
+A: A simple structure for implementing the behavior on the generated gRPC server classes
+WA1: A simple structure for implementing the behavior on the generated REST server classes
+WA2: A simple structure for implementing the behavior on the generated OpenAPI server classes
+WA3: A simple structure for implementing the behavior on the generated GraphQL server classes
+
+Q: How can gRPC be tested from a browser?
+A: Install gRPC UI
+WA1: Use Postman
+WA2: Use cURL
+WA3: Use SOAP UI

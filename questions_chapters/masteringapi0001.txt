@@ -1,0 +1,22 @@
+Q1: Among the levels of Richardson Maturity, which one starts to introduce the correct modeling of multiple resources URIs accessed by different request methods based on the effect of the resources of the server?
+Correct answers:
+CA1: Level 2 - Verbs
+Wrong answers:
+WA1: Level 1 - Resources
+WA2: Level 0 - HTTP/RPC
+WA3: Level 3 - Hypermedia Controls
+
+Q2: What is the key difference between REST and RPC?
+Correct answers:
+CA1: REST is stateless while RPC state depends on the implementation.
+Wrong answers:
+WA1: RPC is stateless while REST state depends on the implementation.
+WA2: REST uses the HTTP protocol.
+WA3: RPC has an easy way to deal with routing.
+
+Q3: When you are building an API you can see the term REST, what is REST?
+Correct answers:
+CA1: Representation State Transfer (REST) is a set of architectural constraints, most commonly applied using HTTP as the underlying transport protocol.
+Wrong answers:
+WA1: REST is a messaging protocol specification for exchanging structured information in the implementation of web services in computer networks.
+WA2: In distributed computing, a REST is when a computer program causes a procedure to execute in a different address space, which is coded as if it were a normal procedure call, without the programmer explicitly coding the details for the remote interaction.

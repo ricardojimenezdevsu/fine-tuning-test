@@ -1,0 +1,11 @@
+Q: What is Testcontainers?
+A: Testcontainers is a library that integrates with your testing framework to orchestrate containers.
+WA1: Testcontainers is a tool to package applications into containers. 
+WA2: Testcontainers is a tool to test communication between services.
+WA3: Testcontainers is a tool to verify integrations.
+
+Q: What was the use case for the Attendee API?
+A: The Attendee API service will support a gRPC interface as well as the RESTful interface.
+WA1: The Attendee API service will support only a gRPC interface. 
+WA2: The Attendee API service will support only a RESTful interface.
+WA3: The Attendee API service will support only a GraphQL interface.

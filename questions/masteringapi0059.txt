@@ -1,0 +1,11 @@
+Q: What is the cost of network transfer due to payload size and limitations of one protocol versus another?
+A: The cost can present itself in either monetary costs of each transfer or the total time taken for the message to reach the destination.
+WA1: Increased data storage costs
+WA2: Increased API call frequency
+WA3: Increased bandwidth usage
+
+Q: What is a common misconception regarding the use of JSON in data transfers?
+A: A common misconception is that human readability is quoted as a primary reason to use JSON in data transfers.
+WA1: JSON is always the most efficient data format
+WA2: JSON is not suitable for large file transfers
+WA3: JSON is not machine readable

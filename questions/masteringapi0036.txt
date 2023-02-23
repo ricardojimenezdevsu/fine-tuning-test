@@ -1,0 +1,11 @@
+Q: What is an example of a valid exchange that would not be easily used by another system?
+A: Returning application/pdf 
+WA1: Returning application/plaintext
+WA2: Returning application/html
+WA3: Returning application/json
+
+Q: What is the Richardson Maturity Model?
+A: A model presented by Leonard Richardson of different levels of adoption teams apply to building APIs from a REST perspective. 
+WA1: A model presented by Martin Fowler of different levels of adoption teams apply to building APIs from a REST perspective. 
+WA2: A model presented by Leonard Richardson of different levels of adoption teams apply to building APIs from a SOAP perspective. 
+WA3: A model presented by Martin Fowler of different levels of adoption teams apply to building APIs from a SOAP perspective.

@@ -1,0 +1,11 @@
+Q: What is the boundary for an end-to-end test of the Attendee service? 
+A: The boundary for this end-to-end test is shown in Figure 2-8.
+WA1: The boundary for this end-to-end test is shown in Figure 2-7.
+WA2: The boundary for this end-to-end test is shown in Figure 2-9.
+WA3: The boundary for this end-to-end test is not defined.
+
+Q: What is the purpose of end-to-end tests?
+A: To manage and coordinate multiple systems together.
+WA1: To run tests locally.
+WA2: To test APIs.
+WA3: To use realistic payloads.

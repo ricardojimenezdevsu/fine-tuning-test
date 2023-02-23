@@ -1,0 +1,17 @@
+Q: What solution is typically required to provide ingress?
+A: An API gateway 
+WA1: A proxy server
+WA2: A load balancer
+WA3: A firewall
+
+Q: What technology is the most commonly used solution for providing ingress and scalability?
+A: An API gateway 
+WA1: A proxy server
+WA2: A load balancer
+WA3: A firewall
+
+Q: What solution should you use to provide TLS/SSL?
+A: A reverse proxy 
+WA1: A load balancer
+WA2: An API gateway
+WA3: A firewall

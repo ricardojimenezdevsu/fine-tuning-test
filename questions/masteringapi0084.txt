@@ -1,0 +1,11 @@
+Q: What does Pact contract framework provide?
+A: A broker product that can be used as a central location to host contracts.
+WA1: A centralized location to store all contracts
+WA2: A network diagram
+WA3: CI/CD pipelines
+
+Q: What is the downside to storing contracts in a large organization?
+A: It can be difficult to find all the API services that use contracts.
+WA1: It is possible and likely that contracts get pushed into a module that the producer has no intention of fulfilling.
+WA2: It can be difficult to ensure that undesired changes arent made or additional contracts are added.
+WA3: It can be difficult to organize and set up correctly.

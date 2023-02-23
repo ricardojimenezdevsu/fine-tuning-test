@@ -1,0 +1,11 @@
+Q: What is the purpose of the API Controller component in Figure I-2?
+A: To route incoming requests from the UI and make decisions on where the request is directed.
+WA1: To provide the customer with the web application. 
+WA2: To use SQL to query the backing datastore.
+WA3: To translate requests into objects or representations in code.
+
+Q: What pattern is the API Controller component responsible for?
+A: The front controller pattern.
+WA1: The network-level representation pattern. 
+WA2: The junction point pattern.
+WA3: The in-process routing pattern.

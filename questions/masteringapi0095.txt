@@ -1,0 +1,11 @@
+Q: Is using Testcontainers considered integration testing or end-to-end testing? 
+A: Integration testing
+WA1: End-to-end testing
+WA2: Unit testing
+WA3: System testing
+
+Q: Why not use Testcontainers instead of contracts?
+A: Testcontainers cannot replace contracts as they provide more than just a stub server
+WA1: Contracts are more expensive
+WA2: Testcontainers take more time
+WA3: Testcontainers are not reliable

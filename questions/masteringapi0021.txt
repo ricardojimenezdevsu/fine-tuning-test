@@ -1,0 +1,11 @@
+Q: What is the goal of the case study?
+A: To migrate the conference system to be able to support the new requirements, without impacting the existing production system or rewriting everything in one go.
+WA1: To decommission their private data center and run the conference system on a cloud platform.
+WA2: To build a three-tier architecture.
+WA3: To create a maintenance nightmare.
+
+Q: What is the starting point of the case study?
+A: A typical three-tier architecture, composed of a UI, a server-side processing tier, and a datastore.
+WA1: Modeling APIs.
+WA2: An API consumer.
+WA3: An API service.

@@ -1,0 +1,11 @@
+Q: What is the role of an API gateway in a typical large/enterprise API gateway deployment? 
+A: An API gateway typically sits between the public internet and the demilitarized zone (DMZ) of a private network.
+WA1: An API gateway typically sits between two private networks.
+WA2: An API gateway typically handles API requests and responses.
+WA3: An API gateway typically provides authentication and authorization services.
+
+Q: How does an API gateway integrate with other technologies at the edge?
+A: There are typically many components deployed at the edge of an API-based system.
+WA1: An API gateway is typically the only component deployed at the edge.
+WA2: An API gateway typically provides all the necessary functionality for an API-based application.
+WA3: An API gateway typically provides encryption services.

@@ -1,0 +1,11 @@
+Q: What is the ideal approach for building an internal API?
+A: Work toward CDC, even if you have to start with producer contracts and evolve over to CDC. 
+WA1: Use producer contracts
+WA2: Use component testing
+WA3: Use API Component Testing
+
+Q: What is important to consider when exposing an API?
+A: Use producer contracts to ensure backward compatibility. 
+WA1: Use component testing
+WA2: Use API Component Testing
+WA3: Ensure the responses and requests match what is expected

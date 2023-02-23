@@ -1,0 +1,17 @@
+Q: Who are the authors of the book?
+A: Humble, Richard Li, Simon Brown, Nick Ebbitt, Jason Morgan, Nic Jackson, Cliff Tiltman, Elspeth Minty, George Ball, Benjamin Evans, and Martijn Verberg.
+WA1: Virginia Wilson, Melissa Duffield, and Nicole Tache.
+WA2: James Gough
+WA3: Daniel Bryant
+
+Q: Who are the editors of the book?
+A: Virginia Wilson, Melissa Duffield, and Nicole Tache.
+WA1: Humble, Richard Li, Simon Brown, Nick Ebbitt, Jason Morgan, Nic Jackson, Cliff Tiltman, Elspeth Minty, George Ball, Benjamin Evans, and Martijn Verberg.
+WA2: James Gough
+WA3: Daniel Bryant
+
+Q: Who are the people thanked by the author?
+A: Megan, Emily, and Anna, Heather and Paul, Daniel and Matt, Jon Daplyn, Ed Safo, David Halliwell, and Dov Katz
+WA1: Virginia Wilson, Melissa Duffield, and Nicole Tache.
+WA2: James Gough
+WA3: Humble, Richard Li, Simon Brown, Nick Ebbitt, Jason Morgan, Nic Jackson, Cliff Tiltman, Elspeth Minty, George Ball, Benjamin Evans, and Martijn Verberg.

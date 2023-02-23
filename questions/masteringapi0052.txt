@@ -1,0 +1,11 @@
+Q: What are the upgrade options when changes are requested to an API?
+A: Release a new version and deploy in a new location, release a new version of the API that is backward compatible with the previous version of the API, or break compatibility.
+WA1: Ignore the changes
+WA2: Recompile and test the code
+WA3: Do nothing
+
+Q: What might happen when multiple consumers start to operate against the API?
+A: Changes to the API or new features requested by one of the consumers might require an upgrade.
+WA1: The API will become unstable
+WA2: The application will crash
+WA3: The API will be shut down

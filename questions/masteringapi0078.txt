@@ -1,0 +1,15 @@
+Q: What is contract testing?
+A: Contract testing is a shared definition of how a producer and consumer interact.
+WA1: Contract testing is a way to check if an API conforms to a schema.
+WA2: Contract testing is an automated unit testing process.
+WA3: Contract testing is a way to check if two systems are compatible.
+
+Q: What is an example of a contract?
+A: A contract is a GET request to the endpoint /conference/{conference-id}/attendees with a response body of a property called value containing an array of values about the attendees.
+WA1: A contract is a POST request to the endpoint /conference/{conference-id}/attendees with a response body of a property called value containing an array of values about the attendees.
+WA2: A contract is a PUT request to the endpoint /conference/{conference-id}/attendees with a response body of a property called value containing an array of values about the attendees.
+WA3: A contract is a DELETE request to the endpoint /conference/{conference-id}/attendees with a response body of a property called value containing an array of values about the attendees.
+
+Q: What is the purpose of generated tests?
+A: The generated tests are used by the consumer and producer.
+WA1: The generated tests are used to generate the tests

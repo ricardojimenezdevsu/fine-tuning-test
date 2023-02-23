@@ -1,0 +1,11 @@
+Q: What is the key difference between REST and RPC?
+A: State - REST is by definition stateless, while state in RPC depends on the implementation.
+WA1: GraphQL is the key difference between REST and RPC.
+WA2: Complexity is the key difference between REST and RPC.
+WA3: Authentication is the key difference between REST and RPC.
+
+Q: What does RPC require?
+A: A schema to fully cover the interaction between producer and consumer.
+WA1: A library to abstract the complexity of making the remote call.
+WA2: A client-side stub to make the remote call.
+WA3: A server-side stub to make the remote call.

@@ -1,0 +1,11 @@
+Q: What are some additional features that API gateways provide?
+A: API gateways provide additional features that enable developers to manage the lifecycle of an API, assist with the onboarding and management of developers using the APIs (such as providing a developer portal and related account administration and access control), and provide enterprise governance.
+WA1: API gateways provide a way to manage user accounts.
+WA2: API gateways provide a way to store data.
+WA3: API gateways provide a way to debug errors.
+
+Q: Where is an API gateway typically deployed?
+A: An API gateway is typically deployed at the edge of a system.
+WA1: An API gateway is typically deployed in the center of the system.
+WA2: An API gateway is typically deployed in the cloud.
+WA3: An API gateway is typically deployed on the client's computer.

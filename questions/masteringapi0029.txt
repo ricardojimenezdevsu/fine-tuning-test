@@ -1,0 +1,11 @@
+Q: At what point should the team create an ADR?
+A: After there has been discussion ahead of the ADR and the record is a result of collective thinking in the team.
+WA1: Before any discussion has taken place.
+WA2: After the ADR has been published to the wider community.
+WA3: When the engineering team has proposed the ADR.
+
+Q: What is the purpose of publishing an ADR to the wider community?
+A: To allow the opportunity for feedback beyond the immediate team.
+WA1: To allow for discussion about the ADR.
+WA2: To keep the ADR immutable.
+WA3: To capture the change in perspective.

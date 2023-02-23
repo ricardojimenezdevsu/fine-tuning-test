@@ -1,0 +1,11 @@
+Q: What is the purpose of the text?
+A: The text explains the importance of investing in testing for an API, and provides a scenario for the chapter.
+WA1: The text provides a deep and specialist knowledge about testing.
+WA2: The text explains how to separate the Attendee API from the rest of the conference system.
+WA3: The text explains how to design an API.
+
+Q: What is the main objective of testing?
+A: To provide confidence that the correct results will always be returned.
+WA1: To ensure the API is consistent.
+WA2: To ensure the API is secure. 
+WA3: To ensure the API is bug-free.

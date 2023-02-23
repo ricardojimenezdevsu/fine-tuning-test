@@ -1,0 +1,11 @@
+Q: What type of API interactions are present in the conference case study?
+A: In-process and out-of-process calls.
+WA1: Only in-process calls.
+WA2: Only out-of-process calls.
+WA3: No API interactions.
+
+Q: What is the current architectural approach of the conference system?
+A: The database is an important component, potentially enforcing relationships.
+WA1: The application is an important component.
+WA2: The API is an important component.
+WA3: The server is an important component.

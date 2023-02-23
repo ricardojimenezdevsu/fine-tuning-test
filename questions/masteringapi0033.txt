@@ -1,0 +1,11 @@
+Q: Who owns the producer?
+A: The attendee team
+WA1: The legacy conference team
+WA2: The API team
+WA3: The design team
+
+Q: What is the purpose of OpenAPI Specifications?
+A: To shortcut design decisions and navigate away from potential compatibility issues
+WA1: To provide a REST API in the same service
+WA2: To compare and contrast with a gRPC approach
+WA3: To look at different factors to consider in how to model exchanges

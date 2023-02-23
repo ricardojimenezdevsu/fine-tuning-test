@@ -1,0 +1,11 @@
+Q: What is an API gateway?
+A: An API gateway is a critical part of any modern technology stack, sitting at the network edge of systems and acting as a management tool that mediates between a consumer and a collection of backend services.
+WA1: An API gateway is a piece of software that allows users to access external systems from a web browser.
+WA2: An API gateway is a tool used to debug and test APIs.
+WA3: An API gateway is a type of authentication used to protect user data.
+
+Q: What topics are covered in this chapter?
+A: In this chapter you will learn about the why, what, and where of API gateways and explore the history of the API gateway and other edge technologies. You will also explore the taxonomy of API gateways and learn how these fit into the bigger picture of system architecture and deployment models, all while avoiding common pitfalls.
+WA1: In this chapter you will learn about design patterns, debugging techniques, and best practices for using APIs.
+WA2: In this chapter you will learn about the fundamentals of API development and how to create secure APIs.
+WA3: In this chapter you will learn about the basics of web development and how to deploy APIs.

@@ -1,0 +1,11 @@
+Q: What is the httptest package?
+A: It comes out of the box with Golang. 
+WA1: It is an API gateway technology. 
+WA2: It is written in TypeScript. 
+WA3: It is a standalone service. 
+
+Q: What is the purpose of Chapter 3? 
+A: It explores using API gateway technology to manage ingress, or northsouth traffic. 
+WA1: It explains how to define and test an API. 
+WA2: It provides an understanding of the service mesh pattern. 
+WA3: It explains how to manage eastwest traffic.

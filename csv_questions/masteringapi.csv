@@ -1,0 +1,491 @@
+Chapter,Question,Correct Option,Incorrect Option 1,Incorrect Option 2,Incorrect Option 3,GIFT FORMAT
+1,"Among the levels of Richardson Maturity, which one starts to introduce the correct modeling of multiple resources URIs accessed by different request methods based on the effect of the resources of the server?",Level 2 - Verbs,Level 1 - Resources,Level 0 - HTTP/RPC,Level 3 - Hypermedia Controls,"Among the levels of Richardson Maturity, which one starts to introduce the correct modeling of multiple resources URIs accessed by different request methods based on the effect of the resources of the server? {
+=Level 2 - Verbs
+~Level 1 - Resources
+~Level 0 - HTTP/RPC
+~Level 3 - Hypermedia Controls
+ }"
+,What is the key difference between REST and RPC?,REST is stateless while RPC state depends on the implementation.,RPC is stateless while REST state depends on the implementation.,REST uses the HTTP protocol.,RPC has an easy way to deal with routing.,"What is the key difference between REST and RPC? {
+=REST is stateless while RPC state depends on the implementation.
+~RPC is stateless while REST state depends on the implementation.
+~REST uses the HTTP protocol.
+~RPC has an easy way to deal with routing.
+ }"
+,The main reason to use JSON in Rest API is that it is more readable for the developers,FALSE,TRUE,,,"The main reason to use JSON in Rest API is that it is more readable for the developers {
+=FALSE
+~TRUE
+ }"
+,"When you are building an API you can see the term REST, what is REST?","Representation State Transfer (REST) is a set of architectural constraints, most commonly applied using HTTP as the underlying transport protocol.",REST is a messaging protocol specification for exchanging structured information in the implementation of web services in computer networks.,"In distributed computing, a REST is when a computer program causes a procedure to execute in a different address space, which is coded as if it were a normal procedure call, without the programmer explicitly coding the details for the remote interaction.",,"When you are building an API you can see the term REST, what is REST? {
+=Representation State Transfer (REST) is a set of architectural constraints, most commonly applied using HTTP as the underlying transport protocol.
+~REST is a messaging protocol specification for exchanging structured information in the implementation of web services in computer networks.
+~In distributed computing, a REST is when a computer program causes a procedure to execute in a different address space, which is coded as if it were a normal procedure call, without the programmer explicitly coding the details for the remote interaction.
+ }"
+,"When you are building an API you can see the term RPC, what is RPC?",It’s an API classification that involves calling a method in one process but having it execute code in another process.,It’s a set of architectural constraints that are applied using the HTTP protocol.,It’s a protocol in which the requests of an API are processed.,Remote Persistence Call.,"When you are building an API you can see the term RPC, what is RPC? {
+=It’s an API classification that involves calling a method in one process but having it execute code in another process.
+~It’s a set of architectural constraints that are applied using the HTTP protocol.
+~It’s a protocol in which the requests of an API are processed.
+~Remote Persistence Call.
+ }"
+,What do you need to consider before extending an API to customers?,You need to consider error handling.,You need to consider routing.,You need to consider pagination.,You need to consider caching.,"What do you need to consider before extending an API to customers? {
+=You need to consider error handling.
+~You need to consider routing.
+~You need to consider pagination.
+~You need to consider caching.
+ }"
+,What is the OpenAPI Specification?,It’s a representation of the API that describes it in detail for the consumers.,It’s the API documentation.,It’s a tool for generating REST APIs.,It’s a standard in the IA segment.,"What is the OpenAPI Specification? {
+=It’s a representation of the API that describes it in detail for the consumers.
+~It’s the API documentation.
+~It’s a tool for generating REST APIs.
+~It’s a standard in the IA segment.
+ }"
+,It’s true or false that OpenAPI has more strict specifications than gRPC.,FALSE,TRUE,,,"It’s true or false that OpenAPI has more strict specifications than gRPC. {
+=FALSE
+~TRUE
+ }"
+,What is the upgrade option in which the API owner has to maintain old and new API versions?,Release a new version and deploy it in a new location.,Release a new version of the API that is backward compatible.,Break compatibility with the previous API version.,Release major changes.,"What is the upgrade option in which the API owner has to maintain old and new API versions? {
+=Release a new version and deploy it in a new location.
+~Release a new version of the API that is backward compatible.
+~Break compatibility with the previous API version.
+~Release major changes.
+ }"
+,What does the major version represent in semantic versioning?,It represents breaking changes with the previous version of the API.,It represents backward compatibility changes with the previous version of the API.,It represents bug fixes for an existing version of the API.,,"What does the major version represent in semantic versioning? {
+=It represents breaking changes with the previous version of the API.
+~It represents backward compatibility changes with the previous version of the API.
+~It represents bug fixes for an existing version of the API.
+ }"
+,What does the minor version represent in semantic versioning?,It represents backward compatibility changes with the previous version of the API.,It represents breaking changes with the previous version of the API.,It represents bug fixes for an existing version of the API.,,"What does the minor version represent in semantic versioning? {
+=It represents backward compatibility changes with the previous version of the API.
+~It represents breaking changes with the previous version of the API.
+~It represents bug fixes for an existing version of the API.
+ }"
+,What does the patch version represent in semantic versioning?,It represents bug fixes for an existing version of the API.,It represents backward compatibility changes with the previous version of the API.,It represents breaking changes with the previous version of the API.,,"What does the patch version represent in semantic versioning? {
+=It represents bug fixes for an existing version of the API.
+~It represents backward compatibility changes with the previous version of the API.
+~It represents breaking changes with the previous version of the API.
+ }"
+2,"About the Agile test Quadrants, which one has the following description? It ensures that functional requirements are met and includes exploratory testing.",Q3,Q1,Q2,Q4,"About the Agile test Quadrants, which one has the following description? It ensures that functional requirements are met and includes exploratory testing. {
+=Q3
+~Q1
+~Q2
+~Q4
+ }"
+,Which type of test is at the middle of the pyramid of tests?,Integration Test,Unit Test,End-to-End Test,,"Which type of test is at the middle of the pyramid of tests? {
+=Integration Test
+~Unit Test
+~End-to-End Test
+ }"
+,"The goal of an end-to-end test is to test all parts of the applications, that includes every API, UI, and service that the application could have",FALSE,TRUE,,,"The goal of an end-to-end test is to test all parts of the applications, that includes every API, UI, and service that the application could have {
+=FALSE
+~TRUE
+ }"
+,What is the core of building an API?,Testing.,Versioning.,Architecture.,Documentation.,"What is the core of building an API? {
+=Testing.
+~Versioning.
+~Architecture.
+~Documentation.
+ }"
+,What is the purpose of the test quadrants and the test automation pyramid?,Their purpose is to guide you in choosing what tests you might want.,Their purpose is to be the base of the test suite you will implement.,Their purpose is to indicate what tests you must implement.,Their purpose is to standardize the kind of tests in the software.,"What is the purpose of the test quadrants and the test automation pyramid? {
+=Their purpose is to guide you in choosing what tests you might want.
+~Their purpose is to be the base of the test suite you will implement.
+~Their purpose is to indicate what tests you must implement.
+~Their purpose is to standardize the kind of tests in the software.
+ }"
+,What is the purpose of unit tests?,It’s to ensure that the code you write is running as expected.,It’s to be automated.,It’s to test the application behavior.,It’s to ensure the security of the application.,"What is the purpose of unit tests? {
+=It’s to ensure that the code you write is running as expected.
+~It’s to be automated.
+~It’s to test the application behavior.
+~It’s to ensure the security of the application.
+ }"
+,What does a contract mean on an API?,A contract is a definition of how the consumer and the producer will interact.,A contract is a document that specifies the rules of the API.,A contract is a schema specification.,A contract is a kind of test.,"What does a contract mean on an API? {
+=A contract is a definition of how the consumer and the producer will interact.
+~A contract is a document that specifies the rules of the API.
+~A contract is a schema specification.
+~A contract is a kind of test.
+ }"
+,What are the producer contracts?,They are interactions defined by the API owner to allow the use of the API by an external audience.,They are interactions made by the consumer for the use of the API.,"They are interactions of how the producer and the consumer will interact, defined by both producer and consumer.",They are contracts that can be used when the producer and consumer are in the same organization.,"What are the producer contracts? {
+=They are interactions defined by the API owner to allow the use of the API by an external audience.
+~They are interactions made by the consumer for the use of the API.
+~They are interactions of how the producer and the consumer will interact, defined by both producer and consumer.
+~They are contracts that can be used when the producer and consumer are in the same organization.
+ }"
+,What is contract testing?,It’s a way to ensure the interaction between the producer and consumer has the correct responses.,It’s a test for the API versioning.,It’s the validation of the schema specification.,It’s the validation of the code that you write.,"What is contract testing? {
+=It’s a way to ensure the interaction between the producer and consumer has the correct responses.
+~It’s a test for the API versioning.
+~It’s the validation of the schema specification.
+~It’s the validation of the code that you write.
+ }"
+,What is API end-to-end testing?,It’s the test between your services and their dependencies to verify that they work as expected.,It’s the test over the boundaries between external services and the API’s modules.,It’s a way to ensure the interaction between the producer and consumer has the correct responses.,It’s the validation of the schema specification.,"What is API end-to-end testing? {
+=It’s the test between your services and their dependencies to verify that they work as expected.
+~It’s the test over the boundaries between external services and the API’s modules.
+~It’s a way to ensure the interaction between the producer and consumer has the correct responses.
+~It’s the validation of the schema specification.
+ }"
+3,Which of these is not a concern that can be dealt with an API gateway:,Logging,Monetization,Security,Observability,"Which of these is not a concern that can be dealt with an API gateway: {
+=Logging
+~Monetization
+~Security
+~Observability
+ }"
+,How does an API Gateway lead to a less coupled system?,It acts as a single entry point and as a facade or adapter,It redirects the traffic to each service,It gathers all the commonly used resources in a single module,,"How does an API Gateway lead to a less coupled system? {
+=It acts as a single entry point and as a facade or adapter
+~It redirects the traffic to each service
+~It gathers all the commonly used resources in a single module
+ }"
+,Which of the following is not a problem-related API gateway:,Wrong redirection of services when consulting the API gateway,"User client state management issues, such as the backend state not being migrated correctly, which causes the failure of Sticky sessions","Poor performance, as clients are not redirected based on geographical considerations","Unintentional cascading failure, such as a faulty leader election component that results in a deadlock, causes all backend systems to become unavailable","Which of the following is not a problem-related API gateway: {
+=Wrong redirection of services when consulting the API gateway
+~User client state management issues, such as the backend state not being migrated correctly, which causes the failure of Sticky sessions
+~Poor performance, as clients are not redirected based on geographical considerations
+~Unintentional cascading failure, such as a faulty leader election component that results in a deadlock, causes all backend systems to become unavailable
+ }"
+,What is an API gateway?,It’s a management tool deployed at the edge of a system that controls the interactions between the consumer and the backend services.,It’s software to connect two applications.,It’s a definition of how the consumer and the producer will interact.,It’s a forward proxy between the consumer and the backend services.,"What is an API gateway? {
+=It’s a management tool deployed at the edge of a system that controls the interactions between the consumer and the backend services.
+~It’s software to connect two applications.
+~It’s a definition of how the consumer and the producer will interact.
+~It’s a forward proxy between the consumer and the backend services.
+ }"
+,How should microservices be built?,They should be built around the idea of “smart endpoints and dumb pipes”.,They should be built around the idea of “smart endpoints and dump pipes”.,They should be built around the idea of “decentralization of data management”.,They should be built using polyglot language stacks.,"How should microservices be built? {
+=They should be built around the idea of “smart endpoints and dumb pipes”.
+~They should be built around the idea of “smart endpoints and dump pipes”.
+~They should be built around the idea of “decentralization of data management”.
+~They should be built using polyglot language stacks.
+ }"
+,What is the primary use of micro API gateways?,It’s to route ingress traffic to backend APIs and services.,It’s to communicate multiple backend APIs.,It protects the communication between consumer requests and the backend APIs.,It’s to offer an open-source edition.,"What is the primary use of micro API gateways? {
+=It’s to route ingress traffic to backend APIs and services.
+~It’s to communicate multiple backend APIs.
+~It protects the communication between consumer requests and the backend APIs.
+~It’s to offer an open-source edition.
+ }"
+,"If you won’t deploy a service mesh, the first choice of API gateway is a service mesh gateway.",FALSE,TRUE,,,"If you won’t deploy a service mesh, the first choice of API gateway is a service mesh gateway. {
+=FALSE
+~TRUE
+ }"
+,What is the stage for detecting issues in API gateways?,It’s to have access and the data of a monitoring system.,It’s to create a dedicated team to detect issues.,It’s to detect the availability of the security components.,It’s to validate the metrics of the API.,"What is the stage for detecting issues in API gateways? {
+=It’s to have access and the data of a monitoring system.
+~It’s to create a dedicated team to detect issues.
+~It’s to detect the availability of the security components.
+~It’s to validate the metrics of the API.
+ }"
+4,Where is a service mesh deployed?,A service mesh is deployed within an internal network or cluster.,In a cloud provider like AWS or Azure,You have to use a container orchestrator for the deployment,,"Where is a service mesh deployed? {
+=A service mesh is deployed within an internal network or cluster.
+~In a cloud provider like AWS or Azure
+~You have to use a container orchestrator for the deployment
+ }"
+,Which of these is not a problem that service mesh can address?,Decrease of latency between services,Separate ingress and service-to-service traffic management,"Enforce security, including transport encryption, authentication, and authorization","Enable fine-grained control of service routing, reliability, and traffic management","Which of these is not a problem that service mesh can address? {
+=Decrease of latency between services
+~Separate ingress and service-to-service traffic management
+~Enforce security, including transport encryption, authentication, and authorization
+~Enable fine-grained control of service routing, reliability, and traffic management
+ }"
+,"About service mesh implementation patterns, which approach is the most used?",The sidecar-based approach,The library approach,Proxyless gRPC libraries,The sidecarless approach,"About service mesh implementation patterns, which approach is the most used? {
+=The sidecar-based approach
+~The library approach
+~Proxyless gRPC libraries
+~The sidecarless approach
+ }"
+,What is not a challenge of service mesh implementation?,Not enough flexibility in implementation,Service mesh as ESB,Service Mesh as Gateway,To many networking layers,"What is not a challenge of service mesh implementation? {
+=Not enough flexibility in implementation
+~Service mesh as ESB
+~Service Mesh as Gateway
+~To many networking layers
+ }"
+,What is a service mesh?,It’s a manager for all the service-to-service communication in a distributed software environment.,It’s a set of API gateways.,It’s the system that communicates with external services.,It’s a classification of API gateways.,"What is a service mesh? {
+=It’s a manager for all the service-to-service communication in a distributed software environment.
+~It’s a set of API gateways.
+~It’s the system that communicates with external services.
+~It’s a classification of API gateways.
+ }"
+,Who is the communication source’s origin in a service mesh?,It’s an internal service.,It’s an user’s device.,It’s an external system.,It’s the routing service.,"Who is the communication source’s origin in a service mesh? {
+=It’s an internal service.
+~It’s an user’s device.
+~It’s an external system.
+~It’s the routing service.
+ }"
+,It’s a traffic requirement of microservices-based applications that manage the bandwidth of the network,Traffic shaping.,Traffic policing.,Traffic pattern.,Traffic strategizing.,"It’s a traffic requirement of microservices-based applications that manage the bandwidth of the network {
+=Traffic shaping.
+~Traffic policing.
+~Traffic pattern.
+~Traffic strategizing.
+ }"
+,It’s a traffic requirement of microservices-based applications that monitors the network traffic,Traffic policing.,Traffic shaping.,Traffic pattern.,Traffic strategizing.,"It’s a traffic requirement of microservices-based applications that monitors the network traffic {
+=Traffic policing.
+~Traffic shaping.
+~Traffic pattern.
+~Traffic strategizing.
+ }"
+,What is the first step before selecting a service mesh?,It’s identifying the related requirements.,It’s selecting the new infrastructure.,It’s comparing whether buy or build the service.,It’s choosing the related technologies.,"What is the first step before selecting a service mesh? {
+=It’s identifying the related requirements.
+~It’s selecting the new infrastructure.
+~It’s comparing whether buy or build the service.
+~It’s choosing the related technologies.
+ }"
+,The use of the sidecars on service mesh at scale has the same cost as a non-scale service mesh.,FALSE,TRUE,,,"The use of the sidecars on service mesh at scale has the same cost as a non-scale service mesh. {
+=FALSE
+~TRUE
+ }"
+5,What does it mean that an API is deprecated?,It means that is still available for use but significant new development should not be carried out against it.,It is when you release a version of the API for users to start to integrate but is not finished yet,It means that the API is versioned and live in production,The API is retired from production and is no longer accessible.,"What does it mean that an API is deprecated? {
+=It means that is still available for use but significant new development should not be carried out against it.
+~It is when you release a version of the API for users to start to integrate but is not finished yet
+~It means that the API is versioned and live in production
+~The API is retired from production and is no longer accessible.
+ }"
+,Which deployment strategy would you use for highly coupled services?,Blue-green,Canary Release,Traffic mirroring,,"Which deployment strategy would you use for highly coupled services? {
+=Blue-green
+~Canary Release
+~Traffic mirroring
+ }"
+,Which is not a pillar of Observability?,Warnings,Metrics,Logs,Trace,"Which is not a pillar of Observability? {
+=Warnings
+~Metrics
+~Logs
+~Trace
+ }"
+,The release process involves putting a feature into production.,FALSE,TRUE,,,"The release process involves putting a feature into production. {
+=FALSE
+~TRUE
+ }"
+,What is a release according to the author?,It’s when a feature it’s delivered to end users through an activation process.,It’s when a feature it’s deployed into production.,It’s a term used to describe the features deployed into production.,It’s a term used to describe new features developed.,"What is a release according to the author? {
+=It’s when a feature it’s delivered to end users through an activation process.
+~It’s when a feature it’s deployed into production.
+~It’s a term used to describe the features deployed into production.
+~It’s a term used to describe new features developed.
+ }"
+,What is the canary release?,It’s a kind of release that allows you to integrate gradually the new version of the API.,It’s a kind of release that allows you to integrate gradually the old version of the API.,It’s a kind of release that allows you to deploy gradually the new version of the API.,It’s a kind of release that allows you to deploy gradually the old version of the API.,"What is the canary release? {
+=It’s a kind of release that allows you to integrate gradually the new version of the API.
+~It’s a kind of release that allows you to integrate gradually the old version of the API.
+~It’s a kind of release that allows you to deploy gradually the new version of the API.
+~It’s a kind of release that allows you to deploy gradually the old version of the API.
+ }"
+,What is the dark release?,It’s a kind of release that mirrors the end user’s traffic to experiment with or test the new API behavior.,It’s a kind of release that allows you to integrate gradually the new version of the API.,It’s a kind of release that mirrors the environments for the new release.,It’s a kind of release that allows you to mirror gradually the new version of the API.,"What is the dark release? {
+=It’s a kind of release that mirrors the end user’s traffic to experiment with or test the new API behavior.
+~It’s a kind of release that allows you to integrate gradually the new version of the API.
+~It’s a kind of release that mirrors the environments for the new release.
+~It’s a kind of release that allows you to mirror gradually the new version of the API.
+ }"
+6,The difference between Information disclosure and spoofing is that the perpetrator gets access to the information directly rather than by having to spoof a legitimate user,TRUE,FALSE,,,"The difference between Information disclosure and spoofing is that the perpetrator gets access to the information directly rather than by having to spoof a legitimate user {
+=TRUE
+~FALSE
+ }"
+,what kind of strategies the book doesn't mention to perform rate limiting?,Exponential window,Fixed window,Token bucket,Leaky bucket,"what kind of strategies the book doesn't mention to perform rate limiting? {
+=Exponential window
+~Fixed window
+~Token bucket
+~Leaky bucket
+ }"
+,"Regarding modeling threats, which is not a component of DFD?",Data access,External entities,Datastores,Data flows,"Regarding modeling threats, which is not a component of DFD? {
+=Data access
+~External entities
+~Datastores
+~Data flows
+ }"
+,What is the general risk due to security breaches?,Organization’s reputation.,The costs.,Lost data.,Cyber attack.,"What is the general risk due to security breaches? {
+=Organization’s reputation.
+~The costs.
+~Lost data.
+~Cyber attack.
+ }"
+,"On API security, what is threat modeling?","It’s a technique that helps to identify threats, attacks, vulnerabilities, and countermeasures that could affect the system.",It’s a technique that helps to identify risks that affect your system.,It’s a system that helps you to create a diagram of risks for your application.,It’s a system in which all your application threats are identified and suppressed.,"On API security, what is threat modeling? {
+=It’s a technique that helps to identify threats, attacks, vulnerabilities, and countermeasures that could affect the system.
+~It’s a technique that helps to identify risks that affect your system.
+~It’s a system that helps you to create a diagram of risks for your application.
+~It’s a system in which all your application threats are identified and suppressed.
+ }"
+,"On API security, what is the most dangerous aspect of threats to the systems?",The elevation of privilege.,The denial of services.,The information disclosure.,The data encryption.,"On API security, what is the most dangerous aspect of threats to the systems? {
+=The elevation of privilege.
+~The denial of services.
+~The information disclosure.
+~The data encryption.
+ }"
+,What is the methodology that the author recommends using for preventing threats?,STRIDE.,OWASP.,DREAD.,GDPR.,"What is the methodology that the author recommends using for preventing threats? {
+=STRIDE.
+~OWASP.
+~DREAD.
+~GDPR.
+ }"
+,What is the first action to take to mitigate the spoofing?,Authenticate all requests made.,Deny all payload injections.,Don’t expose sensitive data.,Implement rate limiting.,"What is the first action to take to mitigate the spoofing? {
+=Authenticate all requests made.
+~Deny all payload injections.
+~Don’t expose sensitive data.
+~Implement rate limiting.
+ }"
+,What is the methodology that authors use to evaluate the threats?,DREAD.,OWASP.,STRIDE.,GDPR.,"What is the methodology that authors use to evaluate the threats? {
+=DREAD.
+~OWASP.
+~STRIDE.
+~GDPR.
+ }"
+,The modeling threat process doesn’t need to be updated.,FALSE,TRUE,,,"The modeling threat process doesn’t need to be updated. {
+=FALSE
+~TRUE
+ }"
+7,"When doing a System-to-System authentication is necessary to use an API key, for this, it is enough to use a base64 encoded string of 30 characters in length",FALSE,TRUE,,,"When doing a System-to-System authentication is necessary to use an API key, for this, it is enough to use a base64 encoded string of 30 characters in length {
+=FALSE
+~TRUE
+ }"
+,"If you are implementing an API and want to use GitHub login, what role would GitHub be assuming?",Authorization server,Resource server,Resource owner,Client,"If you are implementing an API and want to use GitHub login, what role would GitHub be assuming? {
+=Authorization server
+~Resource server
+~Resource owner
+~Client
+ }"
+,"Within the Authorization enforcement context, which issue listed in the OWASP API Security top 10 refers to when a user can perform tasks that are not authorized to do?",Broken Function Level Authorization,Excessive Data Exposure,Mass assignment,Broken Object Level Authorization (BOLA),"Within the Authorization enforcement context, which issue listed in the OWASP API Security top 10 refers to when a user can perform tasks that are not authorized to do? {
+=Broken Function Level Authorization
+~Excessive Data Exposure
+~Mass assignment
+~Broken Object Level Authorization (BOLA)
+ }"
+,"Within the Authorization enforcement context, which issue listed in the OWASP API Security top 10 refers to when a user can request information for an object that they should have access to?",Broken Object Level Authorization (BOLA),Broken Function Level Authorization,Excessive Data Exposure,Mass assignment,"Within the Authorization enforcement context, which issue listed in the OWASP API Security top 10 refers to when a user can request information for an object that they should have access to? {
+=Broken Object Level Authorization (BOLA)
+~Broken Function Level Authorization
+~Excessive Data Exposure
+~Mass assignment
+ }"
+,What is the advantage of using tokens for HTTP requests?,You don’t have to send the password across the network for every request.,You can store the token in the client.,They have a limited lifetime.,They use the HTTP basic.,"What is the advantage of using tokens for HTTP requests? {
+=You don’t have to send the password across the network for every request.
+~You can store the token in the client.
+~They have a limited lifetime.
+~They use the HTTP basic.
+ }"
+,It’s recommended that to access your APIs allow HTTP basic.,FALSE,TRUE,,,"It’s recommended that to access your APIs allow HTTP basic. {
+=FALSE
+~TRUE
+ }"
+,This type of authentication consists of claims that have associated values.,JWT.,OAuth2.,Bearer token.,User credentials.,"This type of authentication consists of claims that have associated values. {
+=JWT.
+~OAuth2.
+~Bearer token.
+~User credentials.
+ }"
+,Why should the authentication tokens be short-lived?,Because with short-lived tokens you can mitigate the risk that them being stolen.,Because short-lived tokens are easier to manage.,Because they can improve the requests’ performance.,Because of the cost of maintaining long-lived tokens.,"Why should the authentication tokens be short-lived? {
+=Because with short-lived tokens you can mitigate the risk that them being stolen.
+~Because short-lived tokens are easier to manage.
+~Because they can improve the requests’ performance.
+~Because of the cost of maintaining long-lived tokens.
+ }"
+,"If your API is consumed by public end users, what kind of authorization should you use?",Authorization Code Grant + PKCE.,Authorization Code Grant.,Authorization Grant.,OAuth2 Grant.,"If your API is consumed by public end users, what kind of authorization should you use? {
+=Authorization Code Grant + PKCE.
+~Authorization Code Grant.
+~Authorization Grant.
+~OAuth2 Grant.
+ }"
+,What does the OAuth2 scope consist of?,Keeping the end user under control and restricting what actions the client can perform on their behalf.,Restricting what actions the user can perform.,Limiting access to the users.,Sending an authentication token to get the allowed resources that the user can request.,"What does the OAuth2 scope consist of? {
+=Keeping the end user under control and restricting what actions the client can perform on their behalf.
+~Restricting what actions the user can perform.
+~Limiting access to the users.
+~Sending an authentication token to get the allowed resources that the user can request.
+ }"
+,What is the difference between OpenID Connect and OAuth2?,The OIDC provides more information about the end user.,The OAuth2 grants more security.,The OIDC is more secure to access APIs.,The OIDC is a newer version of OAuth2.,"What is the difference between OpenID Connect and OAuth2? {
+=The OIDC provides more information about the end user.
+~The OAuth2 grants more security.
+~The OIDC is more secure to access APIs.
+~The OIDC is a newer version of OAuth2.
+ }"
+8,What is one of the biggest challenges of SOA-based systems?,Getting the size and ownership of services correct,Diagram the architecture either using UML or any other documentation framework,Estimating the complexity and scope of the system,,"What is one of the biggest challenges of SOA-based systems? {
+=Getting the size and ownership of services correct
+~Diagram the architecture either using UML or any other documentation framework
+~Estimating the complexity and scope of the system
+ }"
+,Which is not a category of fitness function presented by the book?,Code coverage,Code Quality,Observability,Compliance,"Which is not a category of fitness function presented by the book? {
+=Code coverage
+~Code Quality
+~Observability
+~Compliance
+ }"
+,"What is a ""seam""?",A seam is a point where functionality is stitched together,It is a type of database error,It is when you consume an outdated service,,"What is a ""seam""? {
+=A seam is a point where functionality is stitched together
+~It is a type of database error
+~It is when you consume an outdated service
+ }"
+,What are the properties of a loosely coupled system?,Components are weakly associated with each other.,Components do not know the definitions of other components.,Components are strongly associated with each other.,Components know definitions of other components.,"What are the properties of a loosely coupled system? {
+=Components are weakly associated with each other.
+~Components do not know the definitions of other components.
+~Components are strongly associated with each other.
+~Components know definitions of other components.
+ }"
+,Why is it a good idea to work with a loosely coupled API?,Because provides more confidence and makes easier scalability.,Because provides the consumer with an easy way to use the services.,Because reduces the costs of integration and testing.,Because it’s the proper way of designing an API.,"Why is it a good idea to work with a loosely coupled API? {
+=Because provides more confidence and makes easier scalability.
+~Because provides the consumer with an easy way to use the services.
+~Because reduces the costs of integration and testing.
+~Because it’s the proper way of designing an API.
+ }"
+,"In the evolutionary process the first step is to define the goals, what is the classification of that goals?",The goals can be functional and cross-functional.,The goals can be short-lived and long-lived.,The goals can be classified into their complexity.,The goals can be classified on the business stakeholders' priorities.,"In the evolutionary process the first step is to define the goals, what is the classification of that goals? {
+=The goals can be functional and cross-functional.
+~The goals can be short-lived and long-lived.
+~The goals can be classified into their complexity.
+~The goals can be classified on the business stakeholders' priorities.
+ }"
+,What is the goal of evolutionary architecture?,It’s to support a changing system.,It’s to change the old components in the API.,It’s to remove the spaghetti code from the system.,It’s to migrate the monolithic architecture to a microservice architecture.,"What is the goal of evolutionary architecture? {
+=It’s to support a changing system.
+~It’s to change the old components in the API.
+~It’s to remove the spaghetti code from the system.
+~It’s to migrate the monolithic architecture to a microservice architecture.
+ }"
+,When there is a performance issue in the system the team must focus only on the module or component affected to optimize it.,FALSE,TRUE,,,"When there is a performance issue in the system the team must focus only on the module or component affected to optimize it. {
+=FALSE
+~TRUE
+ }"
+,"To break a dependency exists the sprout technique, what does the sprout technique consist of?","It consists of creating the new functionality elsewhere, testing it, and including it in the legacy function.",It consists of renaming the legacy function and calling it after some logic into a new method named with the legacy function’s original name.,It consists of creating a hit list of breaking changes and prioritizing them to resolve.,,"To break a dependency exists the sprout technique, what does the sprout technique consist of? {
+=It consists of creating the new functionality elsewhere, testing it, and including it in the legacy function.
+~It consists of renaming the legacy function and calling it after some logic into a new method named with the legacy function’s original name.
+~It consists of creating a hit list of breaking changes and prioritizing them to resolve.
+ }"
+,"To break a dependency exists the wrap technique, what does the wrap technique consist of?",It consists of renaming the legacy function and calling it after some logic into a new method named with the legacy function’s original name.,"It consists of creating the new functionality elsewhere, testing it, and including it in the legacy function.",It consists of creating a hit list of breaking changes and prioritizing them to resolve.,,"To break a dependency exists the wrap technique, what does the wrap technique consist of? {
+=It consists of renaming the legacy function and calling it after some logic into a new method named with the legacy function’s original name.
+~It consists of creating the new functionality elsewhere, testing it, and including it in the legacy function.
+~It consists of creating a hit list of breaking changes and prioritizing them to resolve.
+ }"
+9,What does Rehost mean?,It involves moving systems and workloads to a cloud platform without any re-architecture,It is equivalent to the do nothing-for-now strategy. You need to think carefully about what to migrate,It involves moving to a different product,,"What does Rehost mean? {
+=It involves moving systems and workloads to a cloud platform without any re-architecture
+~It is equivalent to the do nothing-for-now strategy. You need to think carefully about what to migrate
+~It involves moving to a different product
+ }"
+,What is the main difference between Rehost and Replatform?,Replatform allows you to take advantage of the cloud services that need minimal re-work,Rehost allows you to take advantage of the cloud services that need minimal re-work,Rehost involves moving to a different product,,"What is the main difference between Rehost and Replatform? {
+=Replatform allows you to take advantage of the cloud services that need minimal re-work
+~Rehost allows you to take advantage of the cloud services that need minimal re-work
+~Rehost involves moving to a different product
+ }"
+,"About the zero trust security model, which phrase summarizes it better?","Never trust, always verify","Always trust, never verify",Verify only if you don't trust,"Always trust, always verify","About the zero trust security model, which phrase summarizes it better? {
+=Never trust, always verify
+~Always trust, never verify
+~Verify only if you don't trust
+~Always trust, always verify
+ }"
+,Which is not one of the four typical zones that most architectures have?,Protected Zone,Public Zone,Restricted Zone,Public Access Zone,"Which is not one of the four typical zones that most architectures have? {
+=Protected Zone
+~Public Zone
+~Restricted Zone
+~Public Access Zone
+ }"
+,What are the six Rs?,They are definitions created by AWS that help how to migrate services in your infrastructure to a cloud platform.,They are steps to follow to migrate services from a cloud platform to your infrastructure.,They are definitions presented by AWS to optimize your infrastructure.,They are a standard to migrate an API to the cloud.,"What are the six Rs? {
+=They are definitions created by AWS that help how to migrate services in your infrastructure to a cloud platform.
+~They are steps to follow to migrate services from a cloud platform to your infrastructure.
+~They are definitions presented by AWS to optimize your infrastructure.
+~They are a standard to migrate an API to the cloud.
+ }"
+,What is the role of API management?,It’s to provide a broad range of features for publishing and controlling APIs.,It’s to determine what components can be enabled or deleted.,It’s to be the central point to discovering APIs.,It’s to present a new layer of functionality to the API gateway.,"What is the role of API management? {
+=It’s to provide a broad range of features for publishing and controlling APIs.
+~It’s to determine what components can be enabled or deleted.
+~It’s to be the central point to discovering APIs.
+~It’s to present a new layer of functionality to the API gateway.
+ }"
+,Why does the author start with migration at the edge?,Because he will perform incrementally migrations to minimize the risks.,Because he wants to start with the easiest part of the API.,Because at the edge of the system the risk of that something going wrong it’s lower.,"Because of that, the API service will be more stable.","Why does the author start with migration at the edge? {
+=Because he will perform incrementally migrations to minimize the risks.
+~Because he wants to start with the easiest part of the API.
+~Because at the edge of the system the risk of that something going wrong it’s lower.
+~Because of that, the API service will be more stable.
+ }"
+,What do you need to do to ensure the routing across networks?,Redirect the traffic from the new API gateway to the old one or look for other options.,Design a virtual private network to communicate the systems.,Create perimeter defense in the network.,Consult the InfoSec team for a zonal architecture.,"What do you need to do to ensure the routing across networks? {
+=Redirect the traffic from the new API gateway to the old one or look for other options.
+~Design a virtual private network to communicate the systems.
+~Create perimeter defense in the network.
+~Consult the InfoSec team for a zonal architecture.
+ }"
+,Using this approach you can control and restrict access and communication flows on components and users as per security policy.,Zoning.,Zero trust.,Endpoints.,OAuth2.,"Using this approach you can control and restrict access and communication flows on components and users as per security policy. {
+=Zoning.
+~Zero trust.
+~Endpoints.
+~OAuth2.
+ }"
+,Having different types of security in the different types of deployments is easier to maintain.,FALSE,TRUE,,,"Having different types of security in the different types of deployments is easier to maintain. {
+=FALSE
+~TRUE
+ }"

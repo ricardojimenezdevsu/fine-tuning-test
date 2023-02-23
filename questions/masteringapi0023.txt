@@ -1,0 +1,11 @@
+Q: What is eastwest traffic?
+A: Eastwest traffic can be thought of as service-to-service style of communication within a group of applications.
+WA1: Eastwest traffic is communication between two machines.
+WA2: Eastwest traffic is communication between two users.
+WA3: Eastwest traffic is communication between two networks.
+
+Q: What is the key subject for Chapter 3?
+A: API gateways.
+WA1: Service mesh.
+WA2: Kubernetes.
+WA3: Service discovery techniques.

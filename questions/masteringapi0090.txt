@@ -1,0 +1,11 @@
+Q: What is the preferred option for testing an external boundary?
+A: The legacy conference system has a generated stub server and can use this to test against.
+WA1: Making a contract
+WA2: Hand rolling a stub server
+WA3: Using Microsoft Graph API
+
+Q: What key considerations must be made when hand rolling a stub server?
+A: Make sure that the stub is accurate.
+WA1: Ensure the request is accurate
+WA2: Ensure the response is correct
+WA3: Ensure the URL is accurate

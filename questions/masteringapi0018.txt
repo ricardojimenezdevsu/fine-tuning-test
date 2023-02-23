@@ -1,0 +1,11 @@
+Q: What is an example of an in-process API invocation? 
+A: A Java method invocation from one class to another.
+WA1: A .NET application invoking an external REST-like API.
+WA2: Data traversing a network.
+WA3: Modelling an evolutionary architecture.
+
+Q: What is the running case study used throughout the book?
+A: A conference system.
+WA1: An operating system process.
+WA2: A virtual private cloud network.
+WA3: An external customer.

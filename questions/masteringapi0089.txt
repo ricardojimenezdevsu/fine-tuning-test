@@ -1,0 +1,11 @@
+Q: What type of test gives us confidence that our API is behaving correctly?
+A: Integration tests
+WA1: Unit tests
+WA2: Contract tests
+WA3: Stress tests
+
+Q: What do you want to verify when performing integration testing?
+A: Ensuring that an interaction is being made correctly
+WA1: Ensuring that there are no bugs in the code
+WA2: Ensuring that the code is well-written
+WA3: Ensuring that the system is secure

@@ -1,0 +1,11 @@
+Q: Does using code from OReilly books require permission?
+A: Selling or distributing examples from OReilly books does require permission.
+WA1: No permission is needed.
+WA2: Attribution is necessary.
+WA3: No permission is needed but attribution is required.
+
+Q: Is attribution usually required when using OReilly code?
+A: We appreciate, but generally do not require, attribution.
+WA1: No attribution is necessary.
+WA2: Attribution is necessary.
+WA3: Attribution is optional.

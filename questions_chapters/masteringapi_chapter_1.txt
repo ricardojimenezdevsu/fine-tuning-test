@@ -1,0 +1,87 @@
+Q1: Among the levels of Richardson Maturity, which one starts to introduce the correct modeling of multiple resources URIs accessed by different request methods based on the effect of the resources of the server?
+Correct answers:
+CA1: Level 2 - Verbs
+Wrong answers:
+WA1: Level 1 - Resources
+WA2: Level 0 - HTTP/RPC
+WA3: Level 3 - Hypermedia Controls
+
+Q2: What is the key difference between REST and RPC?
+Correct answers:
+CA1: REST is stateless while RPC state depends on the implementation.
+Wrong answers:
+WA1: RPC is stateless while REST state depends on the implementation.
+WA2: REST uses the HTTP protocol.
+WA3: RPC has an easy way to deal with routing.
+
+Q3: The main reason to use JSON in Rest API is that it is more readable for the developers
+Correct answers:
+CA1: FALSE
+Wrong answers:
+WA1: TRUE
+
+Q4: When you are building an API you can see the term REST, what is REST?
+Correct answers:
+CA1: Representation State Transfer (REST) is a set of architectural constraints, most commonly applied using HTTP as the underlying transport protocol.
+Wrong answers:
+WA1: REST is a messaging protocol specification for exchanging structured information in the implementation of web services in computer networks.
+WA2: In distributed computing, a REST is when a computer program causes a procedure to execute in a different address space, which is coded as if it were a normal procedure call, without the programmer explicitly coding the details for the remote interaction.
+
+Q5: When you are building an API you can see the term RPC, what is RPC?
+Correct answers:
+CA1: Its an API classification that involves calling a method in one process but having it execute code in another process.
+Wrong answers:
+WA1: Its a set of architectural constraints that are applied using the HTTP protocol.
+WA2: Its a protocol in which the requests of an API are processed.
+WA3: Remote Persistence Call.
+
+Q6: What do you need to consider before extending an API to customers?
+Correct answers:
+CA1: You need to consider error handling.
+Wrong answers:
+WA1: You need to consider routing.
+WA2: You need to consider pagination.
+WA3: You need to consider caching.
+
+Q7: What is the OpenAPI Specification?
+Correct answers:
+CA1: Its a representation of the API that describes it in detail for the consumers.
+Wrong answers:
+WA1: Its the API documentation.
+WA2: Its a tool for generating REST APIs.
+WA3: Its a standard in the IA segment.
+
+Q8: Its true or false that OpenAPI has more strict specifications than gRPC.
+Correct answers:
+CA1: FALSE
+Wrong answers:
+WA1: TRUE
+
+Q9: What is the upgrade option in which the API owner has to maintain old and new API versions?
+Correct answers:
+CA1: Release a new version and deploy it in a new location.
+Wrong answers:
+WA1: Release a new version of the API that is backward compatible.
+WA2: Break compatibility with the previous API version.
+WA3: Release major changes.
+
+Q10: What does the major version represent in semantic versioning?
+Correct answers:
+CA1: It represents breaking changes with the previous version of the API.
+Wrong answers:
+WA1: It represents backward compatibility changes with the previous version of the API.
+WA2: It represents bug fixes for an existing version of the API.
+
+Q11: What does the minor version represent in semantic versioning?
+Correct answers:
+CA1: It represents backward compatibility changes with the previous version of the API.
+Wrong answers:
+WA1: It represents breaking changes with the previous version of the API.
+WA2: It represents bug fixes for an existing version of the API.
+
+Q12: What does the patch version represent in semantic versioning?
+Correct answers:
+CA1: It represents bug fixes for an existing version of the API.
+Wrong answers:
+WA1: It represents backward compatibility changes with the previous version of the API.
+WA2: It represents breaking changes with the previous version of the API.

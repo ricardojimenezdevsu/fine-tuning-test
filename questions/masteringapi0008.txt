@@ -1,0 +1,11 @@
+Q: What is the purpose of this book?
+A: After reading this book you will understand the fundamentals of REST APIs and how to best build, version, and test APIs, the architectural patterns involved in building an API platform, the differences in managing API traffic at ingress and within service-to-service communication, and how to apply patterns and technologies such as API gateways and service meshes, threat modeling and key security considerations for APIs, such as authentication, authorization, and encryption, and how to evolve existing systems toward APIs and different target deployments.
+WA1: To provide an introduction to software engineering
+WA2: To teach users how to design and develop web applications
+WA3: To provide an overview of cloud computing technologies
+
+Q: Who is this book most relevant to?
+A: Individuals who have been building enterprise software systems for several years and most likely have the word architect in their job title or role description. 
+WA1: Beginner-level software developers
+WA2: Experienced web developers
+WA3: Data analysts

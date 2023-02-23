@@ -1,0 +1,11 @@
+Q: What is the main purpose of the introduction?
+A: To outline ADR Guidelines and provide an approach to help make decisions when the answer is it depends.
+WA1: To introduce C4 model diagrams
+WA2: To present APIs and their associated ecosystem
+WA3: To provide an estimate of the journey to building API-based architectures
+
+Q: What is the difference between the architecture journey and a long journey?
+A: The architecture journey does not have a destination.
+WA1: The architecture journey is longer than a long journey.
+WA2: The architecture journey is guided by GPS.
+WA3: The architecture journey does not encounter any delays.

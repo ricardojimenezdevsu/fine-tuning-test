@@ -1,0 +1,11 @@
+Q: What Functionality Does an API Gateway Provide?
+A: At a network level an API gateway typically acts as a reverse proxy to accept all of the API requests from a consumer, calls and aggregates the various application-level backend services (and potentially external services) required to fulfill them, and returns the appropriate result.
+WA1: A network gateway provides security and encryption services for all traffic.
+WA2: An API gateway provides a platform for developers to create applications.
+WA3: An API gateway is used to create a secure connection between two computers.
+
+Q: What Is a Proxy, Forward Proxy, and Reverse Proxy?
+A: A proxy server, sometimes referred to as a forward proxy, is an intermediary server that forwards requests for content from multiple clients to different servers across the internet. A forward proxy is used to protect clients. For instance, a business may have a proxy that routes and filters employee traffic to the public internet. A reverse proxy server, on the other hand, is a type of proxy server that typically sits behind the firewall in a private network and routes client requests to the appropriate backend server. A reverse proxy is designed to protect servers.
+WA1: A proxy is a type of virtual private network (VPN) that is used to access the internet.
+WA2: A forward proxy is used to route traffic from the server to the client.
+WA3: A reverse proxy is used to filter out malicious traffic.

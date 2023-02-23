@@ -1,0 +1,11 @@
+Q: What is the purpose of the test pyramid?
+A: The test pyramid helps you build a great API.
+WA1: To provide automated testing in the test quadrant.
+WA2: To ensure bugs are found early in the development cycle.
+WA3: To provide a guide to product direction.
+
+Q: What is the relationship between a consumer and a producer in contract testing?
+A: The consumer requests data from an API, and the producer responds to the API requests.
+WA1: The consumer and producer are interchangeable.
+WA2: The consumer produces data and the producer requests data.
+WA3: The consumer and producer both produce data.

@@ -1,0 +1,11 @@
+Q: Why should end-to-end testing be done?
+A: To ensure that services are still serving requests within targeted SLOs and that no sudden lag has been introduced.
+WA1: To make development time easier.
+WA2: To ensure that all security measures are in place.
+WA3: To make sure that hardware is representative.
+
+Q: What tools can be used for performance testing?
+A: Gatling, JMeter, Locust, and K6.
+WA1: Apache Web Server.
+WA2: Microsoft Access.
+WA3: Notepad.

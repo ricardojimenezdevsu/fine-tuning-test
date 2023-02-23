@@ -1,0 +1,11 @@
+Q: What is GraphQL used for?
+A: GraphQL is used to abstract complexity away in systems that store vast amounts of data across different subsystems.
+WA1: To design and build APIs
+WA2: To provide a uniform implementation of REST APIs
+WA3: To provide a layer of well-designed APIs
+
+Q: What does Microsoft REST API Guidelines provide?
+A: It provides uniformity and expectations across different implementations.
+WA1: It provides a layer of well-designed APIs
+WA2: It provides an ideal solution to abstracting away internal system complexity
+WA3: It provides a complete approach to building up an entire API ecosystem

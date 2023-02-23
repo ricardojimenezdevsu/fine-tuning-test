@@ -1,0 +1,11 @@
+Q: What is the purpose of end-to-end testing?
+A: To provide confidence in the application and evidence that services were working from a technical standpoint to meet service agreements.
+WA1: To save time over doing manual testing.
+WA2: To determine how complex the setup is to enable end-to-end testing.
+WA3: To give feedback as early as possible in the development cycle.
+
+Q: What are the ADR Guidelines in Table 2-4?
+A: Knowing what to include, and whether end-to-end testing is worthwhile for your case, are important considerations.
+WA1: A decision on whether to use automated end-to-end tests.
+WA2: A discussion on the complexity of the setup and any specific requirements.
+WA3: A recommendation on what type of tests should be included.

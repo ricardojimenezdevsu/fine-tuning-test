@@ -1,0 +1,17 @@
+Q: What is a factor in large payload exchanges?
+A: The time it takes components to parse the message content into language-level domain objects.
+WA1: The size of the payload.
+WA2: The speed of the connection.
+WA3: The type of language used.
+
+Q: How can HTTP/2 help improve performance?
+A: It supports binary compression and framing.
+WA1: It creates multiple connections.
+WA2: It reduces the size of the payload.
+WA3: It increases connection speed.
+
+Q: What is the advantage of binary framing?
+A: It allows for a full request and response multiplexing over a single connection.
+WA1: It increases connection speed.
+WA2: It reduces the size of the payload.
+WA3: It increases bandwidth.

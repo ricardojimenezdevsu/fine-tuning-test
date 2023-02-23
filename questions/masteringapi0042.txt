@@ -1,0 +1,11 @@
+Q: What is the purpose of the Microsoft REST API Guidelines?
+A: The guidelines provide developers with terminology to determine whether requirements are optional or mandatory.
+WA1: To provide developers with guidelines to create APIs.
+WA2: To standardize the design of APIs.
+WA3: To provide developers with a source of open standards.
+
+Q: What is the recommended approach to creating an endpoint to create a new attendee?
+A: POST
+WA1: PUT
+WA2: GET
+WA3: DELETE

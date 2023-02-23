@@ -1,0 +1,11 @@
+Q: What will you be able to do after reading this book?
+A: Design, build, and test API-based systems; Help to implement and drive an organizations API program from an architectural perspective; Deploy, release, and configure key components of an API platform; Deploy gateways and service meshes based on case studies; Identify vulnerabilities in API architecture and implement measured security mitigations; Contribute to emerging API trends and the associated communities
+WA1: Create complex software systems
+WA2: Develop a secure API
+WA3: Design a cloud-based system
+
+Q: What topics will this book not cover?
+A: We will cover application patterns for migration and modernization that will include taking advantage of cloud platforms, but the book is not wholly focused on cloud technologies. Many of you will have hybrid architectures or even have all of your systems hosted in data centers. We want to ensure that we cover the design and operational factors of API architectures that support both approaches.
+WA1: Cloud technologies 
+WA2: Design and operational factors of API architectures 
+WA3: Application patterns for modernization

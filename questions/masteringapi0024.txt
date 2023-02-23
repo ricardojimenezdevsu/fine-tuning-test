@@ -1,0 +1,23 @@
+Q: What will be discussed in Chapter 1?
+A: The design and specification of the Attendee API, the importance of versioning and modeling exchanges for performance of the Attendee API.
+WA1: Contract and component testing
+WA2: Refactoring the sessions
+WA3: Feature flagging
+
+Q: What will be discussed in Chapter 2?
+A: Contract and component testing to verify behavior of the Attendee service, how Testcontainers can help with integration testing.
+WA1: The design and specification of the Attendee API
+WA2: Refactoring the sessions
+WA3: Feature flagging
+
+Q: What will be discussed in Chapter 3?
+A: Exposing the Attendee service to consumers using an API gateway, evolving the conference system using an API gateway on Kubernetes.
+WA1: Contract and component testing
+WA2: Refactoring the sessions
+WA3: Authentication and authorization
+
+Q: What will be discussed in Chapter 4?
+A: Refactoring the sessions functionality out of the legacy conference system using a service mesh, how service mesh helps with routing, observability, and security.
+WA1: Exposing the Attendee service to consumers using an API gateway
+WA2: Contract and component testing
+WA3: Feature flagging

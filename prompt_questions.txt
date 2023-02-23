@@ -1,0 +1,13 @@
+Write all the relevant questions with the answer and at least three wrong answers as truthfully as possible using the provided context:
+TEXT STARTS
+<<CONTEXT>>
+TEXT ENDS
+
+Consider the following format for the questions and answers:
+Q: Relevant question
+CA: Correct answer
+WA1: Wrong answer 1
+WA2: Wrong answer 2
+WA3: Wrong answer 3
+
+RELEVANT QUESTIONS:

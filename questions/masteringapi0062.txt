@@ -1,0 +1,11 @@
+Q: What versioning considerations do we need to have? 
+A: Consider providing multiple versions of the API to accommodate different versions of the underlying data model.
+WA1: Different versions of the API should not be supported.
+WA2: Versioning of the underlying data model is not necessary.
+WA3: Changes to the underlying data model do not need to be reflected in the API.
+
+Q: Is it possible to generate a .proto file from an OAS using the openapi2proto tool?
+A: Yes, it is possible to generate a .proto file from an OAS using the openapi2proto tool.
+WA1: No, it is not possible to generate a .proto file from an OAS.
+WA2: The .proto file for attendees and the OpenAPI Specification cannot look too dissimilar.
+WA3: The openapi2proto tool is not necessary to generate a .proto file from an OAS.

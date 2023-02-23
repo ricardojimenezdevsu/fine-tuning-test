@@ -1,0 +1,11 @@
+Q: What is the format used for semantic versioning?
+A: Major.Minor.Patch
+WA1: Major.Minor
+WA2: Minor.Patch
+WA3: Major.Minor.Minor
+
+Q: What is the command used to compare OpenAPI specifications?
+A: $docker run --rm -t \ -v $(pwd):/specs:ro \ openapitools/openapi-diff:latest /specs/original.json /specs/first-name.json
+WA1: $docker run --rm -t \ -v $(pwd):/specs:ro \ openapitools/openapi-diff
+WA2: $docker run --rm -v $(pwd):/specs:ro \ openapitools/openapi-diff:latest /specs/original.json
+WA3: $docker run -t \ -v $(pwd):/specs:ro \ openapitools/openapi-diff:latest /specs/original.json /specs/first-name.json

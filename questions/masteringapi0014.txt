@@ -1,0 +1,11 @@
+Q: Who introduced Matthew Auburn to speaking?
+A: Jim
+WA1: Hannah
+WA2: Dan
+WA3: Joshi
+
+Q: What will be introduced in the Introduction?
+A: ADRs and their importance to making and documenting architectural decisions
+WA1: APIs and their potential to be part of the architecture journey
+WA2: A lightweight definition for APIs
+WA3: Traffic patterns and their importance

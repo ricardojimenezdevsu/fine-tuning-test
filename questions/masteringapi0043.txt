@@ -1,0 +1,11 @@
+Q: What is the recommended approach for naming in the Microsoft REST API Guidelines?
+A: Use the standard names provided, and supplement them with a common domain data dictionary.
+WA1: Come up with new names each time
+WA2: Use a completely different set of names than the standards
+WA3: Use the same names for all APIs
+
+Q: What is the purpose of providing consistency across all APIs offered by a company?
+A: It enables consumers to understand and connect responses.
+WA1: It allows for easier maintenance of the APIs
+WA2: It reduces the amount of code needed
+WA3: It allows for faster implementation of changes

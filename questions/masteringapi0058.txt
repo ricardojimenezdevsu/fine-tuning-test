@@ -1,0 +1,11 @@
+Q: What command-line tool does gRPC provide?
+A: $ grpcurl -plaintext localhost:9090 \ com.masteringapi.attendees.grpc.server.AttendeesService/getAttendees
+WA1: $ grpcurl -plaintext localhost:9090 \ com.masteringapi.attendees.grpc.server.AttendeeService/getAttendees
+WA2: $ grpcurl -plaintext localhost:9090 \ com.masteringapi.attendees.grpc.server.AttendanceService/getAttendees
+WA3: $ grpcurl -plaintext localhost:8000 \ com.masteringapi.attendees.grpc.server.AttendeesService/getAttendees
+
+Q: What should API architecture always consider?
+A: The compounding effects of each service.
+WA1: The performance characteristics of an eastwest service.
+WA2: The interactions between services.
+WA3: The internet introducing a high degree of latency.

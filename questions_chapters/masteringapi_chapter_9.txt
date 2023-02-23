@@ -1,0 +1,75 @@
+Q1: What does Rehost mean?
+Correct answers:
+CA1: It involves moving systems and workloads to a cloud platform without any re-architecture
+Wrong answers:
+WA1: It is equivalent to the do nothing-for-now strategy. You need to think carefully about what to migrate
+WA2: It involves moving to a different product
+
+Q2: What is the main difference between Rehost and Replatform?
+Correct answers:
+CA1: Replatform allows you to take advantage of the cloud services that need minimal re-work
+Wrong answers:
+WA1: Rehost allows you to take advantage of the cloud services that need minimal re-work
+WA2: Rehost involves moving to a different product
+
+Q3: About the zero trust security model, which phrase summarizes it better?
+Correct answers:
+CA1: Never trust, always verify
+Wrong answers:
+WA1: Always trust, never verify
+WA2: Verify only if you don't trust
+WA3: Always trust, always verify
+
+Q4: Which is not one of the four typical zones that most architectures have?
+Correct answers:
+CA1: Protected Zone
+Wrong answers:
+WA1: Public Zone
+WA2: Restricted Zone
+WA3: Public Access Zone
+
+Q5: What are the six Rs?
+Correct answers:
+CA1: They are definitions created by AWS that help how to migrate services in your infrastructure to a cloud platform.
+Wrong answers:
+WA1: They are steps to follow to migrate services from a cloud platform to your infrastructure.
+WA2: They are definitions presented by AWS to optimize your infrastructure.
+WA3: They are a standard to migrate an API to the cloud.
+
+Q6: What is the role of API management?
+Correct answers:
+CA1: Its to provide a broad range of features for publishing and controlling APIs.
+Wrong answers:
+WA1: Its to determine what components can be enabled or deleted.
+WA2: Its to be the central point to discovering APIs.
+WA3: Its to present a new layer of functionality to the API gateway.
+
+Q7: Why does the author start with migration at the edge?
+Correct answers:
+CA1: Because he will perform incrementally migrations to minimize the risks.
+Wrong answers:
+WA1: Because he wants to start with the easiest part of the API.
+WA2: Because at the edge of the system the risk of that something going wrong its lower.
+WA3: Because of that, the API service will be more stable.
+
+Q8: What do you need to do to ensure the routing across networks?
+Correct answers:
+CA1: Redirect the traffic from the new API gateway to the old one or look for other options.
+Wrong answers:
+WA1: Design a virtual private network to communicate the systems.
+WA2: Create perimeter defense in the network.
+WA3: Consult the InfoSec team for a zonal architecture.
+
+Q9: Using this approach you can control and restrict access and communication flows on components and users as per security policy.
+Correct answers:
+CA1: Zoning.
+Wrong answers:
+WA1: Zero trust.
+WA2: Endpoints.
+WA3: OAuth2.
+
+Q10: Having different types of security in the different types of deployments is easier to maintain.
+Correct answers:
+CA1: FALSE
+Wrong answers:
+WA1: TRUE

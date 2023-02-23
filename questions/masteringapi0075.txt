@@ -1,0 +1,11 @@
+Q: What is the ADR Guideline for Testing Strategies?
+A: To help you decide on the testing strategy that you should use.
+WA1: To help you decide on the development process.
+WA2: To help you decide on the API should be working.
+WA3: To help you decide on the time resources.
+
+Q: What are the recommendations for testing strategies?
+A: We recommend using test quadrants and the test pyramid.
+WA1: We recommend using proportions of tests.
+WA2: We recommend using other practices within the workplace.
+WA3: We recommend using only the test pyramid.

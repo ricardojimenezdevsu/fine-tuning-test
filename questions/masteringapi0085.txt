@@ -1,0 +1,11 @@
+Q: When building an API, should you use contract testing?
+A: Yes, we recommend using contract testing when building an API.
+WA1: No, contract testing is not necessary.
+WA2: Contract testing is optional.
+WA3: Contract testing is not recommended.
+
+Q: Should contracts be centralized or in a project?
+A: It depends on the situation and needs to be decided.
+WA1: Contracts should not be used at all.
+WA2: Contracts should always be centralized.
+WA3: Contracts should always be in a project.

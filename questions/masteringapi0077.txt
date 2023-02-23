@@ -1,0 +1,11 @@
+Q: What does contract testing ensure?
+A: It ensures that consumers can keep using your API
+WA1: It ensures that producers are fulfilling the contract
+WA2: It ensures that consumers are calling the producer correctly
+WA3: It ensures that contracts evolve
+
+Q: What is a stub server?
+A: It is a server that can be used to verify that consumers can call the producer correctly and parse the response from the producer
+WA1: It is a server that can be used to generate tests
+WA2: It is a server that can be used to verify that the producer is fulfilling the contract
+WA3: It is a server that can be used to distribute contracts

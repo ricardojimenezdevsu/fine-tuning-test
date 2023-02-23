@@ -1,0 +1,11 @@
+Q: What is the purpose of using examples in an OAS?
+A: Examples are useful for documentation to help developers understand the expected API behavior. 
+WA1: To detect changes in an API.
+WA2: To share ideas between the producer and consumer ahead of committing to build the service.
+WA3: To validate that an example matches the OAS for the corresponding request/response component.
+
+Q: What is the purpose of a mock service?
+A: A mock service allows the user to query the API and return example responses. 
+WA1: To detect changes in an API.
+WA2: To validate that an example matches the OAS for the corresponding request/response component.
+WA3: To share ideas between the producer and consumer ahead of committing to build the service.

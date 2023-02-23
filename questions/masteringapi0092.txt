@@ -1,0 +1,11 @@
+Q: Should integration testing be added to API testing?
+A: We do recommend using the generated stub servers from contract tests. However, if this is not available, then having integration testing using recordings of interactions is the next best option.
+WA1: No, integration testing should not be added to API testing.
+WA2: Integration testing is unnecessary and should not be added to API testing.
+WA3: Integration tests should be added but only after deploying to production.
+
+Q: What level of integration test should you use?
+A: Having integration tests that can be run locally gives confidence that an integration will work, especially when refactoring an integration; it will help to ensure that any changes have not broken anything.
+WA1: No integration test should be used.
+WA2: A high level of integration test should be used.
+WA3: Integration tests should always be automated.

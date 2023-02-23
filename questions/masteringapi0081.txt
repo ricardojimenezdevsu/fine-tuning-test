@@ -1,0 +1,11 @@
+Q: What is the definition of Consumer-driven contracts (CDCs)?
+A: Consumer-driven contracts (CDCs), by definition, are implemented by a consumer driving the functionality that they wish to see in an interaction. 
+WA1: Consumer-driven contracts (CDCs) are contracts between consumers and producers. 
+WA2: Consumer-driven contracts (CDCs) are contracts between consumers and companies. 
+WA3: Consumer-driven contracts (CDCs) are contracts between producers and companies. 
+
+Q: What is an example of a contract suggested for a PUT request?
+A: A pull request from the legacy conference system to the new Attendee API service.
+WA1: A request for a new API call. 
+WA2: A request for a new property added. 
+WA3: A discussion about the change.

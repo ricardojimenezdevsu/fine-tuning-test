@@ -1,0 +1,17 @@
+Q1: What is the purpose of automated testing?
+A: Verifying that functional requirements are met.
+WA1: To support the product.
+WA2: Critiquing the product and finding defects.
+WA3: Ensuring that the product is performing as expected.
+
+Q2: What is the left side of the test quadrant about?
+A: Supporting the product and preventing defects.
+WA1: Ensuring that what exists works from a technical standpoint.
+WA2: Testing for the business.
+WA3: Critiquing the product and finding defects.
+
+Q3: What is the right side of the test quadrant about?
+A: Critiquing the product and finding defects.
+WA1: Ensuring that what exists works from a technical standpoint.
+WA2: Testing for the business.
+WA3: Supporting the product and preventing defects.

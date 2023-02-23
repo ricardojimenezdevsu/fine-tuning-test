@@ -1,0 +1,11 @@
+Q: What should you use to slow down production releases?
+A: Manual testing
+WA1: Automated testing
+WA2: Contract testing
+WA3: End-to-end testing
+
+Q: What should you have to perform manual testing?
+A: A run book
+WA1: A testing environment
+WA2: An ADR guideline
+WA3: A research framework

@@ -1,0 +1,11 @@
+Q: What is a recorder?
+A: A recorder is a tool that can capture requests and responses to an endpoint and generate files that can be used for stubbing.
+WA1: A recorder is a tool that can be used to accurately portray requests and responses. 
+WA2: A recorder is a tool that can be used to update and sync files.
+WA3: A recorder is a tool that can be used to store PII in mapping files.
+
+Q: What is the purpose of a stub server?
+A: The purpose of a stub server is to check if the incoming request matches any of the expected requests in the mappings file and return the mapped response if it matches.
+WA1: The purpose of a stub server is to accurately portray requests and responses.
+WA2: The purpose of a stub server is to update and sync files.
+WA3: The purpose of a stub server is to store PII in mapping files.

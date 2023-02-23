@@ -1,0 +1,11 @@
+Q: What is the OpenAPI Initiative?
+A: The OpenAPI Initiative is a organization formed by API industry leaders to construct the OpenAPI Specification (OAS).
+WA1: The OpenAPI Initiative is an open source toolkit for building and testing APIs.
+WA2: The OpenAPI Initiative is a tool for creating and sharing documentation of APIs. 
+WA3: The OpenAPI Initiative is a platform for hosting and sharing APIs.
+
+Q: What is the OpenAPI Specification?
+A: The OpenAPI Specification is a JSON- or YAML-based representation of the API that describes the structure, the domain objects exchanged, and any security requirements of the API.
+WA1: The OpenAPI Specification is a tool for creating and sharing documentation of APIs.
+WA2: The OpenAPI Specification is a platform for hosting and sharing APIs.
+WA3: The OpenAPI Specification is an open source toolkit for building and testing APIs.

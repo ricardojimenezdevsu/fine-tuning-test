@@ -1,0 +1,11 @@
+Q: What is an API gateway?
+A: An API gateway is a management tool that sits at the edge of a system between a consumer and a collection of backend services and acts as a single point of entry for a defined group of APIs.
+WA1: An API gateway is a management tool that sits in the middle of a system between a consumer and a collection of backend services and acts as a single point of entry for a defined group of APIs.
+WA2: An API gateway is a software application that sits at the edge of a system between a consumer and a collection of backend services and acts as a single point of entry for a defined group of APIs.
+WA3: An API gateway is a hardware device that sits at the edge of a system between a consumer and a collection of backend services and acts as a single point of entry for a defined group of APIs.
+
+Q: What is the purpose of an API gateway?
+A: The purpose of an API gateway is to act as a single point of entry for a defined group of APIs.
+WA1: The purpose of an API gateway is to act as a single point of entry for all APIs.
+WA2: The purpose of an API gateway is to act as a single point of entry for a defined group of users.
+WA3: The purpose of an API gateway is to act as a single point of exit for a defined group of APIs.

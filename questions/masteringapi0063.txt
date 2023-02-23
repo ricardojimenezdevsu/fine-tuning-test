@@ -1,0 +1,11 @@
+Q: What is the best approach to keep backward compatibility when introducing a new field in an OAS?
+A: Use a tool that supports OpenAPI Specification version 3.
+WA1: Add the new field at the end of the OAS.
+WA2: Use openapi2proto.
+WA3: Use a reverse proxy generated against the .proto file.
+
+Q: What tool can generate a reverse proxy providing a REST facade in front of the gRPC service?
+A: grpc-gateway.
+WA1: openapi2proto.
+WA2: OpenAPI Specification version 3.
+WA3: A .proto file.

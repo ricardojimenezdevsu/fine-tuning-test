@@ -1,0 +1,11 @@
+Q: What are the two use cases for the Attendee API service?
+A: The Attendee API service has a connection to an external database, and it can make real calls to a stub server in tests.
+WA1: The Attendee API service can make real calls to a production database.
+WA2: The Attendee API service can be used to mock out the database.
+WA3: The Attendee API service can be used to run a local version of NGINX.
+
+Q: What is the benefit of using a real instance of the database in tests?
+A: Using a real instance of the database in tests provides reliable testing across a boundary, ensuring integration will work when going to production.
+WA1: Using a real instance of the database in tests is more reliable than mocks.
+WA2: Using a real instance of the database in tests is faster than an in-memory DB.
+WA3: Using a real instance of the database in tests prevents incorrect assumptions.

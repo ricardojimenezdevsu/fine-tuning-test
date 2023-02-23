@@ -1,0 +1,17 @@
+Q: What is Behavior Driven Development (BDD) used for? 
+A: It is used to write user stories as part of business-facing tests.
+WA1: To create tests for core user journeys.
+WA2: To run performance end-to-end tests.
+WA3: To test out typical user journeys.
+
+Q: What type of end-to-end tests are common?
+A: Scenario tests.
+WA1: Exception tests.
+WA2: Edge cases tests.
+WA3: Performance tests.
+
+Q: What kind of environment is needed to run performance end-to-end tests?
+A: A like-for-like environment of the production environment.
+WA1: A testing environment.
+WA2: A development environment.
+WA3: A simulated environment.

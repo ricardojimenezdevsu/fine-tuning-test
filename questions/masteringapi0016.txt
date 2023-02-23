@@ -1,0 +1,11 @@
+Q: What is an evolutionary architecture?
+A: An approach to incrementally changing an architecture, focusing on the ability to change with speed and reducing the risk of negative impacts.
+WA1: A type of architecture that requires no change.
+WA2: A type of architecture that is designed to be static.
+WA3: A type of architecture that is designed to be fast.
+
+Q: What is the goal of API-First design?
+A: To design an API in a consumer-centric manner.
+WA1: To design an API with no focus on the consumer.
+WA2: To design an API with no consideration of the consumer.
+WA3: To design an API with no regard to the consumer.

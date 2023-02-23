@@ -1,0 +1,17 @@
+Q: What is the benefit of using build and deployment pipelines?
+A: Continuous integration and deployment.
+WA1: Automated bug fixing.
+WA2: Efficiency in development process.
+WA3: Increased market share.
+
+Q: What are the positive impacts of successful software development organizations?
+A: Increased market share, productivity, and profitability.
+WA1: Faster development process.
+WA2: Automated bug fixing.
+WA3: Increased customer satisfaction.
+
+Q: What are the qualities of an API that will help teams work faster?
+A: Discoverable, consistent, and unlikely to cause problems to the consumers even if they change unexpectedly or disappear.
+WA1: Easily testable.
+WA2: Easy to develop.
+WA3: High performance.

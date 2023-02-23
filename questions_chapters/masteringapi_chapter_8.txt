@@ -1,0 +1,73 @@
+Q1: What is one of the biggest challenges of SOA-based systems?
+Correct answers:
+CA1: Getting the size and ownership of services correct
+Wrong answers:
+WA1: Diagram the architecture either using UML or any other documentation framework
+WA2: Estimating the complexity and scope of the system
+
+Q2: Which is not a category of fitness function presented by the book?
+Correct answers:
+CA1: Code coverage
+Wrong answers:
+WA1: Code Quality
+WA2: Observability
+WA3: Compliance
+
+Q3: What is a "seam"?
+Correct answers:
+CA1: A seam is a point where functionality is stitched together
+Wrong answers:
+WA1: It is a type of database error
+WA2: It is when you consume an outdated service
+
+Q4: What are the properties of a loosely coupled system?
+Correct answers:
+CA1: Components are weakly associated with each other.
+Wrong answers:
+WA1: Components do not know the definitions of other components.
+WA2: Components are strongly associated with each other.
+WA3: Components know definitions of other components.
+
+Q5: Why is it a good idea to work with a loosely coupled API?
+Correct answers:
+CA1: Because provides more confidence and makes easier scalability.
+Wrong answers:
+WA1: Because provides the consumer with an easy way to use the services.
+WA2: Because reduces the costs of integration and testing.
+WA3: Because its the proper way of designing an API.
+
+Q6: In the evolutionary process the first step is to define the goals, what is the classification of that goals?
+Correct answers:
+CA1: The goals can be functional and cross-functional.
+Wrong answers:
+WA1: The goals can be short-lived and long-lived.
+WA2: The goals can be classified into their complexity.
+WA3: The goals can be classified on the business stakeholders' priorities.
+
+Q7: What is the goal of evolutionary architecture?
+Correct answers:
+CA1: Its to support a changing system.
+Wrong answers:
+WA1: Its to change the old components in the API.
+WA2: Its to remove the spaghetti code from the system.
+WA3: Its to migrate the monolithic architecture to a microservice architecture.
+
+Q8: When there is a performance issue in the system the team must focus only on the module or component affected to optimize it.
+Correct answers:
+CA1: FALSE
+Wrong answers:
+WA1: TRUE
+
+Q9: To break a dependency exists the sprout technique, what does the sprout technique consist of?
+Correct answers:
+CA1: It consists of creating the new functionality elsewhere, testing it, and including it in the legacy function.
+Wrong answers:
+WA1: It consists of renaming the legacy function and calling it after some logic into a new method named with the legacy functions original name.
+WA2: It consists of creating a hit list of breaking changes and prioritizing them to resolve.
+
+Q10: To break a dependency exists the wrap technique, what does the wrap technique consist of?
+Correct answers:
+CA1: It consists of renaming the legacy function and calling it after some logic into a new method named with the legacy functions original name.
+Wrong answers:
+WA1: It consists of creating the new functionality elsewhere, testing it, and including it in the legacy function.
+WA2: It consists of creating a hit list of breaking changes and prioritizing them to resolve.

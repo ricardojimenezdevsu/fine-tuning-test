@@ -1,0 +1,11 @@
+Q: What is end-to-end testing?
+A: End-to-end testing is to test services and their dependencies together to verify they work as expected.
+WA1: End-to-end testing is to manually test services and their dependencies together.
+WA2: End-to-end testing is to automate services and their dependencies together.
+WA3: End-to-end testing is to replicate the third-party UI.
+
+Q: What is the purpose of automating end-to-end validation?
+A: The purpose of automating end-to-end validation is to save time.
+WA1: The purpose of automating end-to-end validation is to replicate the third-party UI.
+WA2: The purpose of automating end-to-end validation is to manually test services and their dependencies.
+WA3: The purpose of automating end-to-end validation is to debug services and their dependencies.

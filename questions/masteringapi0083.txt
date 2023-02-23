@@ -1,0 +1,17 @@
+Q: What is Pact?
+A: Pact is a contract testing framework that is opinionated and enforces consumer-driven contract testing.
+WA1: Pact is a language-specific testing framework.
+WA2: Pact is an application-specific testing framework. 
+WA3: Pact is a protocol-specific testing framework.
+
+Q: What is the intermediate representation of an interaction in Pact?
+A: The intermediate representation of an interaction in Pact is a language-agnostic representation.
+WA1: The intermediate representation of an interaction in Pact is a language-specific representation.
+WA2: The intermediate representation of an interaction in Pact is a protocol-agnostic representation.
+WA3: The intermediate representation of an interaction in Pact is a product-agnostic representation.
+
+Q: What is the difference between Pact and Spring Cloud Contracts?
+A: Pact is opinionated and enforces consumer-driven contract testing, while Spring Cloud Contracts does not have a strong opinion on CDC or producer contracts and either can be achieved.
+WA1: Pact is language-agnostic while Spring Cloud Contracts is language-specific.
+WA2: Pact is opinionated while Spring Cloud Contracts is not opinionated.
+WA3: Pact is specifically designed for consumer-driven contract testing while Spring Cloud Contracts is designed for producer contracts.

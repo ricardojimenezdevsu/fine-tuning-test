@@ -1,0 +1,11 @@
+Q: What is the test pyramid?
+A: The test pyramid is a concept for test automation strategy that illustrates the trade-offs that exist in terms of confidence, isolation, and scope.
+WA1: The test pyramid is a concept for performance testing strategy.
+WA2: The test pyramid is a concept for manual testing strategy.
+WA3: The test pyramid is a concept for usability testing strategy.
+
+Q: What is the origin of the test pyramid?
+A: The test pyramid was first introduced in the book Succeeding with Agile by Mike Cohn.
+WA1: The test pyramid was first introduced in the book Automating Software Quality by Mark Fewster.
+WA2: The test pyramid was first introduced in the book Agile Testing by Lisa Crispin.
+WA3: The test pyramid was first introduced in the book Software Testing Fundamentals by Paul Ammann.

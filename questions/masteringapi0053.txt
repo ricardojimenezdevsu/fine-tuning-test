@@ -1,0 +1,11 @@
+Q: What is the goal of introducing rules around versioning and how versions are exposed to the consumer?
+A: To support a combination of all three upgrade options.
+WA1: To introduce noncompatible changes with previous versions of the API.
+WA2: To introduce a backward compatible change with the previous version of the API.
+WA3: To avoid breaking compatibility with older versions.
+
+Q: What is Semantic Versioning?
+A: An approach that we can apply to REST APIs to give us a combination of the preceding upgrade options.
+WA1: A numerical representation attributed to an API release.
+WA2: A way to upgrade to a new major version.
+WA3: A migration guide and tracking as consumers upgrade to the new API.

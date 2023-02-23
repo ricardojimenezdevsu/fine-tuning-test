@@ -1,0 +1,11 @@
+Q: What is the purpose of moving toward level 2 when designing API exchanges?
+A: To project an understandable resource model to the consumer, with appropriate actions available against the model.
+WA1: To reduce coupling and increase the full detail of the backing service.
+WA2: To provide the CFP team with a RESTful model.
+WA3: To apply abstraction to versioning.
+
+Q: What is the purpose of Remote Procedure Call (RPC) APIs?
+A: To call a method in one process but have it execute code in another process.
+WA1: To provide an abstraction from the underlying technology to the consumer.
+WA2: To project a model of the domain.
+WA3: To use gRPC as a high-performance RPC.

@@ -1,0 +1,11 @@
+Q: What is the purpose of OpenAPI Specifications?
+A: OpenAPI Specifications are used to convey metadata about an API, including documentation, legal and licensing requirements, and examples.
+WA1: To generate client-side code to consume the API.
+WA2: To document a full range of available open and closed source tools.
+WA3: To improve the developer experience and ensure the health of the exchange.
+
+Q: What is the OpenAPI Generator project?
+A: The OpenAPI Generator project supports a wide range of languages and toolchains to generate client-side code to consume the API.
+WA1: A closed source tool used to generate client-side code.
+WA2: A tool used to document a full range of available open and closed source tools.
+WA3: A tool used to improve the developer experience and ensure the health of the exchange.

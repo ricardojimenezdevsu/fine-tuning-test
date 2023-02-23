@@ -1,0 +1,11 @@
+Q: What is the C4 model?
+A: The C4 model is a documentation standard for communicating architecture, context, and interactions to a diverse set of stakeholders.
+WA1: The C4 model is a programming language.
+WA2: The C4 model is a system for planning software projects.
+WA3: The C4 model is a system of communication between stakeholders.
+
+Q: What is the Unified Modeling Language (UML)?
+A: The Unified Modeling Language (UML) is a dialect for communicating software architectures.
+WA1: The Unified Modeling Language (UML) is a programming language.
+WA2: The Unified Modeling Language (UML) is a system for planning software projects.
+WA3: The Unified Modeling Language (UML) is a system of communication between stakeholders.

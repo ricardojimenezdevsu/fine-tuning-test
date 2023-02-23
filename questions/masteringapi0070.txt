@@ -1,0 +1,11 @@
+Q: What is the purpose of the test quadrant?
+A: The test quadrant brings together tests that help technology and business stakeholders alike.
+WA1: To clarify the term business
+WA2: To verify the service created 
+WA3: To provide a technical understanding
+
+Q: Who popularized the term testing?
+A: Lisa Crispin and Janet Gregory popularized the term testing.
+WA1: Agile Testing
+WA2: Addison-Wesley
+WA3: Technology side of building an API

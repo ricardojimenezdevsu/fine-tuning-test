@@ -1,0 +1,11 @@
+Q: What is the purpose of testing?
+A: Testing ensures that you are building a working application with the right behavior.
+WA1: To ensure the application is running in production.
+WA2: To create irrelevant tests.
+WA3: To duplicate tests.
+
+Q: What are the two strategies introduced to guide you to getting the right balance and the right tests for your case?
+A: The test quadrant and test pyramid.
+WA1: The test cube and test triangle.
+WA2: The test pyramid and test cube.
+WA3: The test quadrant and test triangle.

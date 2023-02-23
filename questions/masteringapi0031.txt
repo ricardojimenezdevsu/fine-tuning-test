@@ -1,0 +1,11 @@
+Q: What is the format of the ADR Guidelines?
+A: Decision, Discussion Points, Recommendations, Summary
+WA1: Discussion Points, Decision, Summary, Recommendations
+WA2: Discussion Points, Summary, Recommendations, Decision
+WA3: Summary, Recommendations, Decision, Discussion Points
+
+Q: What is the focus of the book?
+A: Out-of-process APIs
+WA1: In-process APIs
+WA2: Process APIs
+WA3: Abstract APIs

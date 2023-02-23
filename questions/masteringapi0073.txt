@@ -1,0 +1,11 @@
+Q: What are test doubles?
+A: Test doubles are objects that look like real versions of an external entity but are under the control of the tester.
+WA1: Test doubles are the same as unit tests.
+WA2: Test doubles are used to test the internals of the application.
+WA3: Test doubles are used to verify the API from an external consumer. 
+
+Q: What is TDD?
+A: TDD is about writing tests before you write the logic.
+WA1: TDD is a form of unit testing.
+WA2: TDD is used to provide quality to the externals of the application.
+WA3: TDD is a type of UI test.

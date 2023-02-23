@@ -1,0 +1,17 @@
+Q: What should be kept in mind when choosing a solution for routing?
+A: Always use the simplest solution for your requirements, with an eye to the immediate future and known requirements.
+WA1: Use the most complex solution available
+WA2: Use the most expensive solution
+WA3: Choose a solution that does not meet the immediate requirements
+
+Q: What is recommended for enterprises with advanced cross-functional requirements?
+A: An API gateway that supports API Management (APIM) features is recommended.
+WA1: A single endpoint to a single backend service
+WA2: API keys/tokens
+WA3: Monetization/chargeback
+
+Q: What is required to enable conference attendees to view their details via a mobile application?
+A: The Attendee service API must be exposed externally and must be secure in addition to being reliable and observable.
+WA1: Expose the mobile application externally
+WA2: Expose the Attendee service internally
+WA3: Make the Attendee service unreliable

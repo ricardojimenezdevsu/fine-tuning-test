@@ -1,0 +1,11 @@
+Q: What is the key takeaway from the chapter?
+A: Carefully considering the design and structure is an important architectural decision.
+WA1: Designing APIs is an unnecessary task.
+WA2: It is always better to use REST over gRPC.
+WA3: OpenAPI Specifications are not useful for sharing API structure.
+
+Q: What is the Richardson Maturity Model?
+A: The Richardson Maturity Model is a model used to consider the degree of coupling between the producer and consumer when choosing between REST and RPC models.
+WA1: The Richardson Maturity Model is a model used for versioning APIs.
+WA2: The Richardson Maturity Model is a model used to analyze the reliability of an API.
+WA3: The Richardson Maturity Model is a model used to assess the performance of an API.

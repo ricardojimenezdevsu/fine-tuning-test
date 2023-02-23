@@ -1,0 +1,11 @@
+Q: What technology is increasingly becoming a core skill for software developers?
+A: Building and operating APIs
+WA1: Writing code
+WA2: Developing websites
+WA3: Designing for high cohesion
+
+Q: What is the role of APIs in successfully integrating systems with external systems?
+A: APIs play a big part in successfully integrating systems with external systems
+WA1: Connecting systems with internal applications
+WA2: Automating processes
+WA3: Creating service-oriented architecture

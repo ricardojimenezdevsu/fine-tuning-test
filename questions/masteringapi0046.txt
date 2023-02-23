@@ -1,0 +1,11 @@
+Q: What is the ADR Guideline?
+A: Choosing an API Standard
+WA1: Developing REST APIs
+WA2: Debugging
+WA3: Intuitive APIs
+
+Q: What should be taken into consideration when making a decision on API standards?
+A: Discussion Points and Recommendations
+WA1: Impact of not having a standard
+WA2: Third-party APIs
+WA3: Company culture

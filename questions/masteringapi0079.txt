@@ -1,0 +1,11 @@
+Q: What type of tests should be used to test interactions between components?
+A: Component tests
+WA1: Integration tests
+WA2: Contract tests
+WA3: Scenario tests
+
+Q: What is a key benefit of using contracts?
+A: It decouples the dependency of building the consumer and producer.
+WA1: It increases the speed of building the consumer and producer.
+WA2: It ensures seamless integration when both the consumer and producer are deployed.
+WA3: It saves time in the contract test process.

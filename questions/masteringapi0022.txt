@@ -1,0 +1,11 @@
+Q: What type of traffic does the northsouth flow represent in Figure I-4?
+A: An ingress flow
+WA1: An egress flow
+WA2: A lateral flow
+WA3: A vertical flow
+
+Q: What type of checks must be made by components handling northsouth traffic?
+A: Concrete checks about client identity and appropriate challenges
+WA1: Performance checks
+WA2: Accessibility checks
+WA3: Network security checks

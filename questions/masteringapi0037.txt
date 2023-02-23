@@ -1,0 +1,11 @@
+Q: What is the difference between a level 1 and level 2 API?
+A: Level 1 introduces identity, whereas level 2 introduces the notion of multiple resource URIs accessed by different request methods.
+WA1: Level 1 introduces the notion of multiple resource URIs accessed by different request methods, whereas level 2 introduces identity.
+WA2: Level 1 introduces the use of Hypertext As The Engine Of Application State, whereas level 2 introduces identity.
+WA3: Level 1 introduces the use of Hypertext As The Engine Of Application State, whereas level 2 introduces the notion of multiple resource URIs accessed by different request methods.
+
+Q: What is the epitome of REST design?
+A: Level 3 - Hypermedia Controls.
+WA1: Level 1 - Identity.
+WA2: Level 2 - Verbs (Methods).
+WA3: Level 4 - Hypertext As The Engine Of Application State.

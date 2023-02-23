@@ -1,0 +1,11 @@
+Q: What was the purpose of writing this book?
+A: To share discussions from conferences and provide a complete picture on designing, operating, and evolving an API architecture.
+WA1: To provide a high-level overview of the evolution of the API industry.
+WA2: To give advice to conference attendees on their API journey.
+WA3: To introduce Jim and Matt's workshop on APIs and API Gateways.
+
+Q: What is the goal of the accompanying case study?
+A: To explore how abstract concepts sometimes translate into practical application.
+WA1: To provide an example of a real-life event-management conference system.
+WA2: To help the reader understand the evolution of the API industry.
+WA3: To give the reader an understanding of Jim and Matt's workshop on APIs and API Gateways.

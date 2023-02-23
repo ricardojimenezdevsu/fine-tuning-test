@@ -1,0 +1,11 @@
+Q: What is the main focus of the authors in this book?
+A: How to apply architecture within organizations
+WA1: To develop systems with APIs
+WA2: To provide opinionated guidance
+WA3: To illustrate with a case study
+
+Q: What is the authors' advice on making difficult decisions?
+A: Approach with caution and evaluate carefully
+WA1: Make the decision immediately
+WA2: Do not make the decision at all
+WA3: Make the decision without research

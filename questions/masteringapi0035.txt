@@ -1,0 +1,11 @@
+Q: What is REST?
+A: REST is a layered system that abstracts away the complexity of systems sitting behind the REST interface.
+WA1: REST is a type of content.
+WA2: REST is a type of programming language.
+WA3: REST is a type of database.
+
+Q: What is an example of a GET request?
+A: A GET request is when a verb such as GET describes the action to take on a particular resource.
+WA1: A GET request is when a consumer sends a request to the server.
+WA2: A GET request is when a consumer sends a response to the server.
+WA3: A GET request is when a consumer sends a request to another consumer.

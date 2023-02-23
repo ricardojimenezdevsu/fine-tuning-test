@@ -1,0 +1,10 @@
+1. Correct Answer: Authors use good faith efforts to ensure the accuracy of their work.
+Wrong Answers: Authors use outdated technology, Authors use trial and error, Authors use outdated methods. 
+2. Correct Answer: This work contains code samples and other technology.
+Wrong Answers: This work contains only instructions, This work contains only information, This work contains only illustrations.
+3. Correct Answer: The software development process has changed with the rise of cloud computing and automated orchestration.
+Wrong Answers: The software development process has become more complex, The software development process has become more expensive, The software development process has become more time consuming.
+4. Correct Answer: Readers are responsible for ensuring that their use of code samples or other technology from this work complies with open source licenses or the intellectual property rights of others.
+Wrong Answers: Readers are responsible for providing feedback, Readers are responsible for providing support, Readers are responsible for providing friendship.
+5. Correct Answer: This work is dedicated to Alex Blewitt.
+Wrong Answers: This work is dedicated to the authors, This work is dedicated to the publisher, This work is dedicated to the readers.
